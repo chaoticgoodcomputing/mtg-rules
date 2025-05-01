@@ -54,4 +54,5 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: automated-updates-${{ github.run_id }}
           base: main
+          reviewers: spelkington
           draft: false
