@@ -16,6 +16,7 @@ jobs:
         uses: actions/checkout@v3
       
       - name: Fetch rules from MTG
+        shell: bash
         run: |
           # Download rules from MTG website
           rules_txt_link="$(curl -s "https://magic.wizards.com/en/rules" | grep -o 'href="[^"]*\.txt"' | cut -d '"' -f2)"
@@ -35,6 +36,9 @@ jobs:
 
           # Update last processed hash
           echo "$rules_hash" > VERSION
+
+          git config --global user.email "me@chaoticgood.computer"
+          git config --global user.name "CGC Bot"
 
           # Commit changes
           git add .
