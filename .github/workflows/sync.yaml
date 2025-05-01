@@ -23,7 +23,7 @@ jobs:
           
 
           # If rules file matches last processed hash, exit.
-          rules_hash=$(md5 -q in/rules.txt)
+          rules_hash=$(md5sum in/rules.txt | awk '{print $1}')
           last_hash=$(cat VERSION)
           if [ "$rules_hash" == "$last_hash" ]; then
             echo "Rules are up to date. Exiting."
