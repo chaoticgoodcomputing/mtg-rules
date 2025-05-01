@@ -1,0 +1,49 @@
+name: Sync Rules
+
+on:
+  schedule:
+    # Runs at 00:00 UTC on Mondays
+    - cron: '0 0 * * 1'
+  
+  workflow_dispatch:
+
+jobs:
+  sync-rules:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Fetch rules from MTG
+        run: |
+          # Download rules from MTG website
+          rules_txt_link="$(curl -s "https://magic.wizards.com/en/rules" | grep -o 'href="[^"]*\.txt"' | cut -d '"' -f2)"
+          wget "$rules_txt_link" -O in/rules.txt
+          
+
+          # If rules file matches last processed hash, exit.
+          rules_hash=$(md5 -q in/rules.txt)
+          last_hash=$(cat VERSION)
+          if [ "$rules_hash" == "$last_hash" ]; then
+            echo "Rules are up to date. Exiting."
+            exit 0
+          fi
+
+          # Process rules using python script
+          python3 process_rules.py in/rules.txt rules
+
+          # Update last processed hash
+          echo "$rules_hash" > VERSION
+
+          # Commit changes
+          git add .
+          git commit -am "$(date +%Y-%m-%d) updated rules: $(rules_hash)"
+      
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: automated-updates-${{ github.run_id }}
+          base: main
+          draft: false
