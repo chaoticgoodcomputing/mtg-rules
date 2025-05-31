@@ -2,8 +2,8 @@ name: Sync & Process MTG Rules
 
 on:
   schedule:
-    # Runs at 00:00 UTC on Mondays
-    - cron: '0 0 * * 1'
+    # Runs at 09:00 MT daily.
+    - cron: '0 3 * * *'
   
   workflow_dispatch:
 
