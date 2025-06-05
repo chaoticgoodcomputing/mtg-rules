@@ -88,7 +88,7 @@ Example: Two creatures are on the battlefield along with an artifact that has th
 
 603.10c Abilities that trigger specifically when an object becomes unattached look back in time.
 
-603.10d Abilities that trigger when a player loses control of an object look back in time.
+603.10d Abilities that trigger when a player loses control of an object or when a player’s opponent gains control of an object from that player look back in time.
 
 603.10e Abilities that trigger when a spell is countered look back in time.
 

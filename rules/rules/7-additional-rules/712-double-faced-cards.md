@@ -18,11 +18,11 @@
 
 712.4. Meld cards have a Magic card face on one side and half of an oversized card face on the other.
 
-712.4a One card in each meld pair has an ability that exiles both that object and its counterpart and melds them. To meld the two cards in a meld pair, put them onto the battlefield with their back faces up and combined (see rule 701.37, “Meld”). The resulting permanent is a single object represented by two cards.
+712.4a One card in each meld pair has an ability that exiles both that object and its counterpart and melds them. To meld the two cards in a meld pair, put them onto the battlefield with their back faces up and combined (see rule 701.42, “Meld”). The resulting permanent is a single object represented by two cards.
 
 712.4b The back faces of a meld pair are used only to determine the characteristics of the melded permanent that pair becomes on the battlefield. If a rule or effect references the back face of a meld card when not part of a melded permanent on the battlefield, it fails to determine its characteristics, regardless of which parts of the melded permanent is represented on that card’s back face.
 
-712.5. There are six specific meld pairs.
+712.5. There are seven specific meld pairs.
 
 712.5a Midnight Scavengers and Graf Rats meld to form Chittering Host.
 
@@ -35,6 +35,8 @@
 712.5e The Mightstone and Weakstone and Urza, Lord Protector meld to form Urza, Planeswalker.
 
 712.5f Argoth, Sanctum of Nature and Titania, Voice of Gaea meld to form Titania, Gaea Incarnate.
+
+712.5g Fang, Fearless l’Cie and Vanille, Cheerful l’Cie meld to form Ragnarok, Divine Deliverance.
 
 712.6. Players who are allowed to look at a double-faced card may look at both sides of that card.
 
@@ -56,7 +58,7 @@
 
 712.8g While the two cards of a meld pair are on the battlefield as a melded permanent, the object represented by those cards has only the characteristics of the combined back face, and its mana value is the sum of the mana values of its front faces. If a permanent is copying a melded permanent, the mana value of the copy is 0. See rule 202.3c.
 
-712.9. Only transforming tokens and permanents represented by transforming double-faced cards can transform or convert. (See rule 701.28, “Transform,” and rule 701.50, “Convert.”) If a spell or ability instructs a player to transform or convert any permanent that isn’t a transforming token or isn’t represented by a transforming double-faced card, nothing happens.
+712.9. Only transforming tokens and permanents represented by transforming double-faced cards can transform or convert. (See rule 701.27, “Transform,” and rule 701.28, “Convert.”) If a spell or ability instructs a player to transform or convert any permanent that isn’t a transforming token or isn’t represented by a transforming double-faced card, nothing happens.
 Example: A Clone enters the battlefield as a copy of Wildblood Pack (the back face of a transforming double-faced card). The Clone will be a copy of the Wildblood Pack. Because the Clone is itself not a transforming double-faced card, it can’t transform.
 Example: A player casts Cytoshape, causing a Kruin Outlaw (the front face of a transforming double-faced card) to become a copy of Elite Vanguard (a 2/1 Human Soldier creature) until end of turn. The player then casts Moonmist, which reads, in part, “Transform all Humans.” Because the copy of Elite Vanguard is a transforming double-faced card, it will transform. The resulting permanent will have its back face up, but it will still be a copy of Elite Vanguard that turn.
 Example: A player controls Blackbloom Rogue, a Human Rogue that’s the front face of a modal double-faced card. They cast Moonmist. Blackbloom Rogue doesn’t transform.

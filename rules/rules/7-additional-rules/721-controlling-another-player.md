@@ -27,4 +27,4 @@ Example: The player who’s being controlled still decides if they will leave to
 
 721.8. A player who controls another player also continues to make their own choices and decisions.
 
-721.9. A player may gain control of themselves. That player will make their own decisions and choices as normal.
+721.9. An effect may give a player control of themselves. That player will make their own decisions and choices as normal.

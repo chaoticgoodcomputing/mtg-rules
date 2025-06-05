@@ -6,7 +6,7 @@
 
 616.1c If any of the replacement and/or prevention effects would cause an object to become a copy of another object as it enters the battlefield, one of them must be chosen. If not, proceed to rule 616.1d.
 
-616.1d If any of the replacement and/or prevention effects would cause a card to enter the battlefield with its back face up, one of them must be chosen (See rule 701.28, “Transform,” and rule 701.50, “Convert.”). If not, proceed to 616.1e.
+616.1d If any of the replacement and/or prevention effects would cause a card to enter the battlefield with its back face up, one of them must be chosen (See rule 701.27, “Transform,” and rule 701.28, “Convert.”). If not, proceed to 616.1e.
 
 616.1e Any of the applicable replacement and/or prevention effects may be chosen.
 

@@ -807,7 +807,7 @@ Example: You activate the aura swap ability of an Aura that you control but you 
 
 702.94a Miracle is a static ability linked to a triggered ability. (See rule 603.11.) “Miracle [cost]” means “You may reveal this card from your hand as you draw it if it’s the first card you’ve drawn this turn. When you reveal this card this way, you may cast it by paying [cost] rather than its mana cost.”
 
-702.94b If a player chooses to reveal a card using its miracle ability, they play with that card revealed until that card leaves their hand, that ability resolves, or that ability otherwise leaves the stack. (See rule 701.16a.)
+702.94b If a player chooses to reveal a card using its miracle ability, they play with that card revealed until that card leaves their hand, that ability resolves, or that ability otherwise leaves the stack. (See rule 701.20a.)
 
 702.95. Soulbond
 
@@ -1289,7 +1289,7 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 
 702.159. Visit
 
-702.159a Visit is a keyword ability found on Attraction cards (see rule 717). “Visit — [Effect]” means “Whenever you roll to visit your Attractions, if the result is equal to a number that is lit up on this Attraction, [effect].” See rule 701.49, “Roll to Visit Your Attractions.”
+702.159a Visit is a keyword ability found on Attraction cards (see rule 717). “Visit — [Effect]” means “Whenever you roll to visit your Attractions, if the result is equal to a number that is lit up on this Attraction, [effect].” See rule 701.52, “Roll to Visit Your Attractions.”
 
 702.159b Some Attractions instruct a player to “claim the prize,” followed by a second paragraph that starts with the word “Prize” and a long dash. This text is part of its visit ability. To claim the prize of an Attraction, perform the actions listed after the long dash.
 
@@ -1303,7 +1303,7 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 
 702.162. More Than Meets the Eye
 
-702.162a More Than Meets the Eye represents a static ability that functions in any zone from which the spell may be cast. “More Than Meets the Eye [cost]” means “You may cast this card converted by paying [cost] rather than its mana cost.” Casting a spell using its More Than Meets the Eye ability follows the rules for paying alternative costs (see 601.2b and 601.2f–h). See rule 701.50, “Convert.”
+702.162a More Than Meets the Eye represents a static ability that functions in any zone from which the spell may be cast. “More Than Meets the Eye [cost]” means “You may cast this card converted by paying [cost] rather than its mana cost.” Casting a spell using its More Than Meets the Eye ability follows the rules for paying alternative costs (see 601.2b and 601.2f–h). See rule 701.28, “Convert.”
 
 702.163. For Mirrodin!
 
@@ -1396,7 +1396,7 @@ Example: If a creature with toxic 2 gains toxic 1 due to another effect, its tot
 
 702.172a Spree is a static ability found on some modal spells (see rule 700.2) that applies while the spell on the stack. Spree means “Choose one or more modes. As an additional cost to cast this spell, pay the costs associated with those modes.”
 
-702.172b Cards with the spree ability have a plus sign icon in the upper right corner of the card. This symbol is a visual reminder that this card requires an additional cost to be cast. This icon has no rules meaning.
+702.172b Cards with the spree ability have a plus sign icon in the upper right corner of the card, and use a plus sign (+) rather than traditional cullet points. These symbols are a visual reminder that this card requires an additional cost to be cast, and do not have additional rules meaning..
 
 702.173. Freerunning
 
@@ -1436,7 +1436,7 @@ Example: If a creature with toxic 2 gains toxic 1 due to another effect, its tot
 
 702.176. Impending
 
-702.176a Impending is a keyword that represents four abilities. The first and second are static abilities that function while the spell with impending is on the stack. The third is a static ability that functions on the battlefield. The fourth is a triggered ability that functions on the battlefield. “Impending N—[cost]” means “You may choose to pay [cost] rather than pay this spell’s mana cost,” “If this spell’s impending cost was paid, it enters with N time counters on it,” “As long as this permanent’s impending cost was paid and it has a time counter on it, it’s not a creature,” and “At the beginning of your end step, if this permanent’s impending cost was paid and it has a time counter on it, remove a time counter from it.” Casting a spell for its impending cost follows the rules for paying alternative costs in rules 601.2b and 601.2f–h.
+702.176a Impending is a keyword that represents four abilities. The first and second are static abilities that function while the spell with impending is on the stack. The third is a static ability that functions on the battlefield. The fourth is a triggered ability that functions on the battlefield. “Impending N—[cost]” means “You may choose to pay [cost] rather than pay this spell’s mana cost,” “If you chose to pay this spell’s impending cost, it enters with N time counters on it,” “As long as this permanent’s impending cost was paid and it has a time counter on it, it’s not a creature,” and “At the beginning of your end step, if this permanent’s impending cost was paid and it has a time counter on it, remove a time counter from it.” Casting a spell for its impending cost follows the rules for paying alternative costs in rules 601.2b and 601.2f–h.
  
 702.177. Exhaust
 
@@ -1474,3 +1474,11 @@ Example: Elvish Refueler has an exhaust ability that costs mana and also has an 
 702.181. Mobilize
 
 702.181a Mobilize is a triggered ability. “Mobilize N” means “Whenever this creature attacks, create N 1/1 red Warrior creature tokens. Those tokens enter tapped and attacking. Sacrifice them at the beginning of the next end step.”
+
+702.182. Job Select
+
+702.182a Job select is a triggered ability. “Job select” means “When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this Equipment to it.”
+
+702.183. Tiered
+
+702.183a Tiered is a static ability found on some modal spells (see rule 700.2) that applies while the spell is on the stack. Tiered means “Choose one. As an additional cost to cast this spell, pay the cost associated with that mode.”
