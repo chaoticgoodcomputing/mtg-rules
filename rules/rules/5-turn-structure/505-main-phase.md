@@ -6,11 +6,11 @@
 
 505.2. The main phase has no steps, so a main phase ends when all players pass in succession while the stack is empty. (See rule 500.2.)
 
-505.3. First, but only if the players are playing an Archenemy game (see rule 904), the active player is the archenemy, and it’s the active player’s precombat main phase, the active player sets the top card of their scheme deck in motion (see rule 701.25). This turn-based action doesn’t use the stack.
+505.3. First, but only if the players are playing an Archenemy game (see rule 904), the active player is the archenemy, and it’s the active player’s precombat main phase, the active player sets the top card of their scheme deck in motion (see rule 701.32). This turn-based action doesn’t use the stack.
 
-505.4. Second, if the active player controls one or more Saga enchantments and it’s the active player’s precombat main phase, the active player puts a lore counter on each Saga they control. (See rule 714, “Saga Cards.”) This turn-based action doesn’t use the stack.
+505.4. Second, if the active player controls one or more Saga enchantments and it’s the active player’s precombat main phase, the active player puts a lore counter on each Saga they control with one or more chapter abilities. (See rule 714, “Saga Cards.”) This turn-based action doesn’t use the stack.
 
-505.5. Third, if the active player controls one or more Attractions and it’s the active player’s precombat main phase, the active player rolls to visit their Attractions. (See rule 701.49, “Roll to Visit Your Attractions.”) This turn-based action doesn’t use the stack.
+505.5. Third, if the active player controls one or more Attractions and it’s the active player’s precombat main phase, the active player rolls to visit their Attractions. (See rule 701.52, “Roll to Visit Your Attractions.”) This turn-based action doesn’t use the stack.
 
 505.6. Fourth, the active player gets priority. (See rule 117, “Timing and Priority.”)
 

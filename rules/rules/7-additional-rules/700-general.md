@@ -17,7 +17,7 @@ Example: If an attacking creature is blocked by two creatures, this is one event
 
 700.2g A copy of a modal spell or ability copies the mode(s) chosen for it. The controller of the copy can’t choose a different mode. (See rule 707.10.)
 
-700.2h Some modal spells use plus signs (+) rather than bullet points, with each plus sign followed by a cost. This indicates that each mode has an additional cost that must be paid as the spell is cast if that mode is chosen. If more than one such mode is chosen, all additional costs must be paid to cast that spell. Paying these costs follows the rules for paying additional costs in rules 601.2b and 601.2f–h.
+700.2h Some modal spells have one or more modes with a cost listed before the effect of that mode. This indicates that the mode has an additional cost that must be paid as the spell is cast if that mode is chosen. If more than one such mode is chosen, all additional costs must be paid to cast that spell. Paying these costs follows the rules for paying additional costs in rules 601.2b and 601.2f–h.
 
 700.2i Some modal spells have one or more pawprint symbols ({P}) rather than bullet points, as well as an instruction to choose up to a specified number of {P} “worth of modes.” While casting such a spell, its controller can choose any number of modes such that the total number of pawprint symbols listed for the chosen modes is not greater than the specified number.
 
@@ -41,7 +41,7 @@ Example: Altar of the Pantheon is an artifact with no colored mana in its cost a
 
 700.6. The term historic refers to an object that has the legendary supertype, the artifact card type, or the Saga subtype.
 
-700.7. If an ability uses a phrase such as “this [something]” to identify an object, where [something] is a characteristic, it is referring to that particular object, even if it isn’t the appropriate characteristic at the time.
+700.7. If an ability uses a phrase such as “this [something]” to identify an object, where [something] is a characteristic or other quality, it is referring to that particular object, even if it isn’t the appropriate quality at the time.
 Example: An ability reads “Target creature gets +2/+2 until end of turn. Destroy that creature at the beginning of the next end step.” The ability will destroy the object it gave +2/+2 to even if that object isn’t a creature at the beginning of the next end step.
 
 700.8. Some cards refer to a player’s party. A player’s party consists of up to one Cleric creature that player controls, up to one Rogue creature they control, up to one Warrior creature they control, and up to one Wizard creature they control.

@@ -6,9 +6,9 @@
 
 717.2b In limited play, an Attraction deck must contain at least three Attraction cards from that player’s card pool, and may contain multiple Attractions cards with the same English name.
 
-717.3. Effects can cause an Attraction card to enter the battlefield from the command zone. See rule 701.48, “Open an Attraction.”
+717.3. Effects can cause an Attraction card to enter the battlefield from the command zone. See rule 701.51, “Open an Attraction.”
 
-717.4. As a player’s precombat main phase begins, a player who controls one or more Attractions rolls to visit their Attractions. See rules 703.4g and 701.49, “Roll to Visit Your Attractions.” This turn-based action doesn’t use the stack.
+717.4. As a player’s precombat main phase begins, a player who controls one or more Attractions rolls to visit their Attractions. See rules 703.4g and 701.52, “Roll to Visit Your Attractions.” This turn-based action doesn’t use the stack.
 
 717.5. Each Attraction card has an ability that begins with the word “Visit” followed by a long dash in its rules text. This is a visit ability. A visit ability triggers whenever you roll to visit your Attractions and the result matches one of the lit-up numbers. See rule 702.159, “Visit.”
 

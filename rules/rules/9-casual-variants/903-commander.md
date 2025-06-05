@@ -1,4 +1,4 @@
-903.1. In the Commander variant, each deck is led by a legendary creature designated as that deck’s commander. The Commander variant was created and popularized by fans; an independent rules committee maintains additional resources at MTGCommander.net. The Commander variant uses all the normal rules for a Magic game, with the following additions.
+903.1. In the Commander variant, a variant created and popularized by fans, each deck is led by a legendary creature designated as that deck’s commander. The Commander variant uses all the normal rules for a Magic game, with the following additions.
 
 903.2. A Commander game may be a two-player game or a multiplayer game. The default multiplayer setup is the Free-for-All variant with the attack multiple players option and without the limited range of influence option. See rule 806, “Free-for-All Variant.”
 

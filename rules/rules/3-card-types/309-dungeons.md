@@ -1,6 +1,6 @@
 309.1. Dungeon is a card type seen only on nontraditional Magic cards.
 
-309.2. Dungeon cards begin outside the game. Dungeon cards aren’t part of a player’s deck or sideboard. They are brought into the game using the venture into the dungeon keyword action. See rule 701.46, “Venture into the Dungeon.”
+309.2. Dungeon cards begin outside the game. Dungeon cards aren’t part of a player’s deck or sideboard. They are brought into the game using the venture into the dungeon keyword action. See rule 701.49, “Venture into the Dungeon.”
 
 309.2a If a player ventures into the dungeon while they don’t own a dungeon card in the command zone, they choose a dungeon card they own from outside the game and put it into the command zone.
 

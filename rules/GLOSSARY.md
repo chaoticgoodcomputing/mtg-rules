@@ -1,7 +1,7 @@
 Glossary
 
 Abandon
-To turn a face-up ongoing scheme card face down and put it on the bottom of its owner’s scheme deck. See rule 701.26, “Abandon.”
+To turn a face-up ongoing scheme card face down and put it on the bottom of its owner’s scheme deck. See rule 701.33, “Abandon.”
 
 Ability
 1. Text on an object that explains what that object does or can do.
@@ -33,7 +33,7 @@ Active Team
 The team whose turn it is in a game using the shared team turns option. See rule 805.4a.
 
 Adapt
-A keyword action that puts +1/+1 counters on a creature that doesn’t have any yet. See rule 701.43, “Adapt.”
+A keyword action that puts +1/+1 counters on a creature that doesn’t have any yet. See rule 701.46, “Adapt.”
 
 Additional Cost
 A cost a spell may have that its controller may pay (or, in some cases, must pay) in addition to its mana cost to cast that spell. See rule 118, “Costs,” and rule 601, “Casting Spells.”
@@ -63,7 +63,7 @@ Alternate Name
 A different name used on promotional or alternate-art versions of some cards. This name has no rules meaning. See rule 201.6.
 
 Amass
-A keyword action that gives you a Zombie Army creature token or grows an Army you already have. See rule 701.44, “Amass.”
+A keyword action that gives you a Zombie Army creature token or grows an Army you already have. See rule 701.47, “Amass.”
 
 Amplify
 A keyword ability than can have a creature enter the battlefield with +1/+1 counters on it. See rule 702.38, “Amplify.”
@@ -150,7 +150,7 @@ Attacks and Isn’t Blocked
 An ability that triggers when a creature “attacks and isn’t blocked” triggers when the creature becomes an unblocked attacking creature. See rule 509.1h.
 
 Attraction
-An artifact type seen only on nontraditional Magic cards in the Unfinity expansion. See rule 717, “Attraction Cards,” rule 701.48, “Open an Attraction,” and rule 701.49, “Roll to Visit Your Attractions.”
+An artifact type seen only on nontraditional Magic cards in the Unfinity expansion. See rule 717, “Attraction Cards,” rule 701.51, “Open an Attraction,” and rule 701.52, “Roll to Visit Your Attractions.”
 
 Attraction Deck
 An optional deck of at least three (in limited play) or ten (in constructed play) Attraction cards that can be used to support play with some cards from the Unfinity expansion. See rule 717.2.
@@ -207,7 +207,7 @@ Beginning Phase
 Part of the turn. This phase is the first phase of the turn. See rule 501, “Beginning Phase.”
 
 Behold
-A keyword action that allows a player to choose a permanent they control of a particular quality or reveal a card of that quality from their hand, usually to pay a cost or get an additional effect. See rule 701.61, “Behold.”
+A keyword action that allows a player to choose a permanent they control of a particular quality or reveal a card of that quality from their hand, usually to pay a cost or get an additional effect. See rule 701.4, “Behold.”
 
 Bestow
 A keyword ability that lets a creature card be cast as an Aura. See rule 702.103, “Bestow.”
@@ -237,7 +237,7 @@ Boast
 A special kind of activated ability that can be activated only once each turn if the creature with the boast ability attacked that turn. See rule 702.142, “Boast.”
 
 Bolster
-A keyword action that puts +1/+1 counters on the weakest creature a player controls. See rule 701.33, “Bolster.”
+A keyword action that puts +1/+1 counters on the weakest creature a player controls. See rule 701.39, “Bolster.”
 
 Booster Pack
 A group of unopened Magic cards from a particular expansion. Booster packs are used in Limited formats. See rule 100.2b.
@@ -312,7 +312,7 @@ City’s Blessing
 A designation a player can have. The ascend keyword causes a player to get this designation once they control ten permanents. See rule 702.131, “Ascend.”
 
 Clash
-To have a mini-contest involving the top cards of players’ libraries. See rule 701.23, “Clash.”
+To have a mini-contest involving the top cards of players’ libraries. See rule 701.30, “Clash.”
 
 Class
 An enchantment subtype. Classes have a number of class level abilities that increase their level and grant them new abilities. See rule 716, “Class Cards.”
@@ -324,13 +324,13 @@ Cleave
 A keyword ability that allows you to pay an alternative cost to remove some of a spell’s text. See rule 702.148, “Cleave.”
 
 Cloak
-A keyword action that puts a card onto the battlefield face down as a 2/2 creature with ward {2}. See rule 701.56, “Cloak,” and rule 708, “Face-Down Spells and Permanents.”
+A keyword action that puts a card onto the battlefield face down as a 2/2 creature with ward {2}. See rule 701.58, “Cloak,” and rule 708, “Face-Down Spells and Permanents.”
 
 Clue Token
 A Clue token is a colorless artifact token with “{2}, Sacrifice this artifact: Draw a card.” For more information about predefined tokens, see rule 111.10.
 
 Collect Evidence
-A keyword action. To “collect evidence N” means to exile any number of cards from your graveyard with total mana value N or greater. See rule 701.57, “Collect Evidence.”
+A keyword action. To “collect evidence N” means to exile any number of cards from your graveyard with total mana value N or greater. See rule 701.59, “Collect Evidence.”
 
 Collector Number
 A number printed on most cards that has no effect on game play. See rule 213, “Information Below the Text Box.”
@@ -387,7 +387,7 @@ Concede
 To quit the game. Conceding a game immediately causes that player to leave that game and lose that game. See rule 104, “Ending the Game.”
 
 Connive
-A keyword action that causes a player to draw a card, discard a card, and then to put a +1/+1 counter on a creature if a nonland card was discarded this way. See rule 701.47, “Connive.”
+A keyword action that causes a player to draw a card, discard a card, and then to put a +1/+1 counter on a creature if a nonland card was discarded this way. See rule 701.50, “Connive.”
 
 Conspiracy
 A card type used in Limited formats such as Conspiracy Draft. A conspiracy card is not a permanent. See rule 315, “Conspiracies.”
@@ -414,7 +414,7 @@ Control Another Player
 To make all choices and decisions that player is allowed to make, or is told to make, by rules or by any objects. See rule 721, “Controlling Another Player.”
 
 Convert
-To turn a double-faced card so its other face is up. See rule 701.50, “Convert.”
+To turn a double-faced card so its other face is up. See rule 701.28, “Convert.”
 
 Converted Mana Cost (Obsolete)
 An obsolete term for mana value. Cards printed with this term have received errata in the Oracle card reference.
@@ -434,7 +434,7 @@ Cost
 An action or payment necessary to take another action or to stop another action from taking place. See rule 118, “Costs.”
 
 Counter
-1. To cancel a spell or ability so it doesn’t resolve and none of its effects occur. See rule 701.5, “Counter.”
+1. To cancel a spell or ability so it doesn’t resolve and none of its effects occur. See rule 701.6, “Counter.”
 2. A marker placed on an object or player that modifies its characteristics or interacts with a rule or ability. See rule 122, “Counters.”
 
 Counts As (Obsolete)
@@ -444,7 +444,7 @@ Craft
 Craft is an activated ability that allows a player to exile cards from their graveyard and/or permanents they control to exile the permanent with the craft ability and return it onto the battlefield transformed. See rule 702.167, “Craft.”
 
 Create
-To create a token is to put a token onto the battlefield. See rule 701.6, “Create.”
+To create a token is to put a token onto the battlefield. See rule 701.7, “Create.”
 
 Creature
 A card type. A creature is a permanent. See rule 302, “Creatures.”
@@ -532,10 +532,10 @@ Deploy Creatures Option
 An option that may be used in certain multiplayer variants to pass control of creatures between teammates. See rule 804, “Deploy Creatures Option.”
 
 Destroy
-To move a permanent from the battlefield to its owner’s graveyard. See rule 701.7, “Destroy.”
+To move a permanent from the battlefield to its owner’s graveyard. See rule 701.8, “Destroy.”
 
 Detain
-A keyword action that temporarily stops a permanent from attacking, blocking, or having its activated abilities activated. See rule 701.29, “Detain.”
+A keyword action that temporarily stops a permanent from attacking, blocking, or having its activated abilities activated. See rule 701.35, “Detain.”
 
 Dethrone
 A keyword ability that puts a +1/+1 counter on a creature when it attacks the player with the most life. See rule 702.105, “Dethrone.”
@@ -553,10 +553,10 @@ Dies
 A creature or planeswalker “dies” if it is put into a graveyard from the battlefield. See rule 700.4.
 
 Discard
-To move a card from its owner’s hand to that player’s graveyard. See rule 701.8, “Discard.”
+To move a card from its owner’s hand to that player’s graveyard. See rule 701.9, “Discard.”
 
 Discover
-A keyword ability that may allow a player to cast a random spell for free. See rule 701.55, “Discover.”
+A keyword ability that may allow a player to cast a random spell for free. See rule 701.57, “Discover.”
 
 Disguise
 A keyword ability that lets a card be cast face down as a 2/2 creature with ward {2}. See rule 702.168, “Disguise,” and rule 708, “Face-Down Spells and Permanents.”
@@ -571,7 +571,7 @@ Door
 A door is one half of a Room permanent. See rule 709, “Split Cards.”
 
 Double
-A keyword action used in a variety of contexts. See rule 701.9, “Double.”
+A keyword action used in a variety of contexts. See rule 701.10, “Double.”
 
 Double Agenda
 A variant of the hidden agenda ability. See rule 702.106, “Hidden Agenda.”
@@ -714,10 +714,10 @@ Exalted
 A keyword ability that can make a creature better in combat. See rule 702.83, “Exalted.”
 
 Exchange
-To swap two things, such as objects, sets of objects, or life totals. See rule 701.10, “Exchange.”
+To swap two things, such as objects, sets of objects, or life totals. See rule 701.12, “Exchange.”
 
 Exert
-A keyword action that stops a permanent from untapping during the next untap step of the player who exerted it. See rule 701.39, “Exert.”
+A keyword action that stops a permanent from untapping during the next untap step of the player who exerted it. See rule 701.43, “Exert.”
 
 Excess Damage
 Damage dealt to a creature greater than what would be lethal damage or damage dealt to a planeswalker greater than its loyalty. See rule 120.4a.
@@ -740,7 +740,7 @@ Exploit
 A keyword ability that lets you sacrifice a creature for a benefit. See rule 702.110, “Exploit.”
 
 Explore
-A keyword action that causes a player to reveal the top card of their library and then to take different actions depending on whether a land card is revealed this way. See rule 701.40, “Explore.”
+A keyword action that causes a player to reveal the top card of their library and then to take different actions depending on whether a land card is revealed this way. See rule 701.44, “Explore.”
 
 Extort
 A keyword ability that lets you gain life and have opponents lose life whenever you cast a spell. See rule 702.101, “Extort.”
@@ -752,7 +752,7 @@ Fabricate
 A keyword ability that lets you choose whether to create Servo tokens or put +1/+1 counters on a creature. See rule 702.123, “Fabricate.”
 
 Face a Villainous Choice
-A keyword action that causes a player to choose one of two listed choices. See rule 701.53, “Face a Villainous Choice.”
+A keyword action that causes a player to choose one of two listed choices. See rule 701.55, “Face a Villainous Choice.”
 
 Face Down
 1. A card is “face down” if it’s physically positioned so the card back is showing. Cards in some zones are normally kept face down. See section 4, “Zones.”
@@ -767,13 +767,13 @@ Fading
 A keyword ability that limits how long a permanent remains on the battlefield. See rule 702.32, “Fading.”
 
 Fateseal
-To manipulate some of the cards on top of an opponent’s library. See rule 701.22, “Fateseal.”
+To manipulate some of the cards on top of an opponent’s library. See rule 701.29, “Fateseal.”
 
 Fear
 A keyword ability that restricts how a creature may be blocked. See rule 702.36, “Fear.”
 
 Fight
-When two creatures fight, each deals damage equal to its power to the other. See rule 701.12, “Fight.”
+When two creatures fight, each deals damage equal to its power to the other. See rule 701.14, “Fight.”
 
 Finality Counter
 A counter that exiles the permanent it is on if that permanent would go to the graveyard from the battlefield. See rule 122.1h.
@@ -815,7 +815,7 @@ For Mirrodin!
 A keyword ability that creates a 2/2 red Rebel creature token and then attaches the Equipment with the ability to that token. See rule 702.163, “For Mirrodin!”
 
 Forage
-To pay a cost of exiling three cards from your graveyard or sacrificing a Food. See rule 701.59, “Forage.”
+To pay a cost of exiling three cards from your graveyard or sacrificing a Food. See rule 701.61, “Forage.”
 
 Forecast
 A keyword ability that allows an activated ability to be activated from a player’s hand. See rule 702.57, “Forecast.”
@@ -875,10 +875,10 @@ Global Enchantment (Obsolete)
 An obsolete term for a non-Aura enchantment. Cards printed with this text have received errata in the Oracle card reference.
 
 Goad
-A keyword action that causes a creature to be goaded until a player’s next turn. See rule 701.38, “Goad.”
+A keyword action that causes a creature to be goaded until a player’s next turn. See rule 701.15, “Goad.”
 
 Goaded
-A designation a permanent can have. Goaded creatures are forced to attack and to attack a player other than the player that caused it to be goaded. See rule 701.38, “Goad.”
+A designation a permanent can have. Goaded creatures are forced to attack and to attack a player other than the player that caused it to be goaded. See rule 701.15, “Goad.”
 
 Gold Token
 A Gold token is a colorless artifact token with “Sacrifice this artifact: Add one mana of any color.” For more information on predefined tokens, see rule 111.10.
@@ -941,6 +941,9 @@ A mana symbol that represents a cost that can be paid in one of two ways. See ru
 Hybrid Phyrexian Mana Symbols
 A mana symbol that represents a cost that can be paid in one of three ways. See rule 107.4.
 
+Job Select
+A keyword ability that creates a 1/1 colorless Hero creature token and then attaches the Equipment with the ability to that token. See rule 702.182, “Job Select.”
+
 Junk Token
 A Junk token is a colorless artifact token with {T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.” For more information about predefined tokens, see rule 111.10.
 
@@ -975,7 +978,7 @@ In Response To
 An instant spell that’s been cast, or an activated ability that’s been activated, while another spell or ability is on the stack has been cast or activated “in response to” the earlier spell or ability. See rule 117.7.
 
 Incubate
-A keyword action that creates an Incubator token with a specified number of +1/+1 counters on it. See rule 701.51, “Incubate.”
+A keyword action that creates an Incubator token with a specified number of +1/+1 counters on it. See rule 701.53, “Incubate.”
 
 Incubator Token
 An Incubator token is a transforming double-faced token. Its front face is a colorless Incubator artifact with “{2}: Transform this artifact.” Its back face is a 0/0 colorless Phyrexian artifact creature named “Phyrexian Token.” For more information about predefined tokens, see rule 111.10.
@@ -1011,7 +1014,7 @@ Intimidate
 A keyword ability that restricts how a creature may be blocked. See rule 702.13, “Intimidate.”
 
 Investigate
-A keyword action that creates a Clue artifact token. See rule 701.36, “Investigate.”
+A keyword action that creates a Clue artifact token. See rule 701.16, “Investigate.”
 
 Island
 One of the five basic land types. Any land with this subtype has the ability “{T}: Add {U}.” See rule 305.6.
@@ -1059,7 +1062,7 @@ Layer
 A system used to determine in which order continuous effects are applied. See rule 613, “Interaction of Continuous Effects.” See also Dependency, Timestamp Order.
 
 Learn
-A keyword action that lets a player add a Lesson card to their hand from outside the game or discard a card to draw a card. See rule 701.45, “Learn.”
+A keyword action that lets a player add a Lesson card to their hand from outside the game or discard a card to draw a card. See rule 701.48, “Learn.”
 
 Leaves the Battlefield
 A permanent “leaves the battlefield” when it’s moved from the battlefield to another zone, or (if it’s phased in) when it leaves the game because its owner leaves the game. See rules 603.6c and 603.10.
@@ -1179,13 +1182,13 @@ Mana Value
 The total amount of mana in a mana cost, regardless of color. See rule 202.3.
 
 Manifest
-A keyword action that puts a card onto the battlefield face down as a 2/2 creature. See rule 701.34, “Manifest,” and rule 708, “Face-Down Spells and Permanents.”
+A keyword action that puts a card onto the battlefield face down as a 2/2 creature. See rule 701.40, “Manifest,” and rule 708, “Face-Down Spells and Permanents.”
 
 Manifest Dread
-A keyword action that puts one of the top two cards of your library onto the battlefield face down as a 2/2 creature. See rule 701.60, “Manifest Dread,” rule 701.34, “Manifest,” and rule 708, “Face-Down Spells and Permanents.”
+A keyword action that puts one of the top two cards of your library onto the battlefield face down as a 2/2 creature. See rule 701.62, “Manifest Dread,” rule 701.40, “Manifest,” and rule 708, “Face-Down Spells and Permanents.”
 
 Map
-A Map token is a colorless Map artifact token with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.” See rule 701.40, “Explore.” For more information about predefined tokens, see rule 110.10.
+A Map token is a colorless Map artifact token with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.” See rule 701.44, “Explore.” For more information about predefined tokens, see rule 110.10.
 
 Match
 A multiplayer game or a two-player series of games (usually best-two-of-three) played in a tournament. See rule 100.6.
@@ -1201,7 +1204,7 @@ Megamorph
 A variant of the morph ability that puts a +1/+1 counter on the creature as it turns face up. See rule 702.37, “Morph.”
 
 Meld
-To turn two members of a meld pair so their back faces are up and combined into one oversized Magic card. See rule 701.37, “Meld.”
+To turn two members of a meld pair so their back faces are up and combined into one oversized Magic card. See rule 701.42, “Meld.”
 
 Meld Cards
 Cards with a Magic card face on one side and half of an oversized Magic card face on the other. See rule 712, “Double-Faced Cards.”
@@ -1219,7 +1222,7 @@ Merged Permanent
 A card or token may merge with a permanent to form a merged permanent. This merged permanent is represented by more than one card and/or token. See rule 728, “Merging with Permanents.”
 
 Mill
-To mill a number of cards, a player puts that many cards from the top of their library into their graveyard. See rule 701.13.
+To mill a number of cards, a player puts that many cards from the top of their library into their graveyard. See rule 701.17.
 
 Minimum Deck Size
 If a rule or effect states that a player’s deck must contain at least a specific number of cards, that number is the player’s minimum deck size.
@@ -1255,13 +1258,13 @@ Monocolored Hybrid Mana Symbols
 See Hybrid Mana Symbols.
 
 Monstrosity
-A keyword action that puts +1/+1 counters on a creature and makes it become monstrous. See rule 701.31, “Monstrosity.”
+A keyword action that puts +1/+1 counters on a creature and makes it become monstrous. See rule 701.37, “Monstrosity.”
 
 Monstrous
-A designation given to a creature whose ability including a monstrosity instruction has resolved. See rule 701.31, “Monstrosity.”
+A designation given to a creature whose ability including a monstrosity instruction has resolved. See rule 701.37, “Monstrosity.”
 
 More Than Meets the Eye
-A keyword ability that allows some cards to be cast converted. See rule 702.162, “More Than Meets the Eye,” and rule 701.50, “Convert.”
+A keyword ability that allows some cards to be cast converted. See rule 702.162, “More Than Meets the Eye,” and rule 701.28, “Convert.”
 
 Morph
 A keyword ability that lets a card be cast face down as a 2/2 creature. See rule 702.37, “Morph,” and rule 708, “Face-Down Spells and Permanents.”
@@ -1446,7 +1449,7 @@ Planechase
 A casual variant in which plane cards and phenomenon cards add additional abilities and randomness to the game. See rule 901, “Planechase.”
 
 Planeswalk
-To put each face-up plane card or phenomenon card on the bottom of its owner’s planar deck face down, then move the top card of your planar deck off that planar deck and turn it face up in a Planechase game. See rule 701.24, “Planeswalk.”
+To put each face-up plane card or phenomenon card on the bottom of its owner’s planar deck face down, then move the top card of your planar deck off that planar deck and turn it face up in a Planechase game. See rule 701.31, “Planeswalk.”
 
 Planeswalker
 A card type. A planeswalker is a permanent. See rule 306, “Planeswalkers.”
@@ -1489,7 +1492,7 @@ Poly Artifact (Obsolete)
 An obsolete term that appeared on the type line of artifacts with activated abilities that didn’t cause the artifact to be tapped as a cost. Cards printed with this text have received errata in the Oracle card reference to simply say “Artifact.”
 
 Populate
-A keyword action that creates a copy of a creature token you control. See rule 701.30, “Populate.”
+A keyword action that creates a copy of a creature token you control. See rule 701.36, “Populate.”
 
 Postcombat Main Phase
 A main phase that occurs after a combat phase. See Main Phase.
@@ -1517,7 +1520,7 @@ Prize
 An additional reward for visiting some Attractions. See rule 702.159, “Visit.”
 
 Proliferate
-To give an additional counter to any number of players and/or permanents of each kind they already have. See rule 701.27, “Proliferate.”
+To give an additional counter to any number of players and/or permanents of each kind they already have. See rule 701.34, “Proliferate.”
 
 Protect, Protector
 Each battle has a player designated as its protector, and that player protects that battle. See rule 310.8.
@@ -1580,7 +1583,7 @@ Reflexive Triggered Ability
 An ability that triggers based on actions taken earlier during a spell or ability’s resolution. See rule 603.12.
 
 Regenerate
-To replace a permanent’s destruction with an alternate sequence of events. See rule 701.15, “Regenerate.”
+To replace a permanent’s destruction with an alternate sequence of events. See rule 701.19, “Regenerate.”
 
 Reinforce
 A keyword ability that lets a player put +1/+1 counters on a creature. See rule 702.77, “Reinforce.”
@@ -1625,16 +1628,16 @@ Retrace
 A keyword ability that lets a player cast a card from their graveyard. See rule 702.81, “Retrace.”
 
 Reveal
-To show a card to all players for a brief time. See rule 701.16, “Reveal.”
+To show a card to all players for a brief time. See rule 701.20, “Reveal.”
 
 The Ring
-An emblem that may be created at the time the Ring tempts you. See rule 701.52, “The Ring Tempts You.”
+An emblem that may be created at the time the Ring tempts you. See rule 701.54, “The Ring Tempts You.”
 
 The Ring Tempts You
-A keyword action that causes a player to choose a creature they control to be their legendary Ring-bearer and may cause them to create an emblem called The Ring. See rule 701.52, “The Ring Tempts You.”
+A keyword action that causes a player to choose a creature they control to be their legendary Ring-bearer and may cause them to create an emblem called The Ring. See rule 701.54, “The Ring Tempts You.”
 
 Ring-bearer
-A designation that a creature can be given as the Ring tempts you. See rule 701.52, “The Ring Tempts You.”
+A designation that a creature can be given as the Ring tempts you. See rule 701.54, “The Ring Tempts You.”
 
 Riot
 A keyword ability that lets a player choose whether certain creatures enter the battlefield with haste or with a +1/+1 counter. See rule 702.136, “Riot.”
@@ -1659,7 +1662,7 @@ Rules Text
 A characteristic that defines a card’s abilities. See rule 207.1.
 
 Sacrifice
-To move a permanent you control to its owner’s graveyard. See rule 701.17, “Sacrifice.”
+To move a permanent you control to its owner’s graveyard. See rule 701.21, “Sacrifice.”
 
 Saddle
 A keyword ability that lets you tap creatures to make another creature “saddled” until end of turn. See rule 702.171, “Saddle.”
@@ -1680,10 +1683,10 @@ Scheme Deck
 A deck of at least twenty scheme cards needed to play the Archenemy casual variant. See rule 904.3.
 
 Scry
-To manipulate some of the cards on top of your library. See rule 701.18, “Scry.”
+To manipulate some of the cards on top of your library. See rule 701.22, “Scry.”
 
 Search
-To look at all cards in a stated zone and possibly find a card that matches a given description. See rule 701.19, “Search.”
+To look at all cards in a stated zone and possibly find a card that matches a given description. See rule 701.23, “Search.”
 
 Secondary Title Bar
 A smaller name line with the Oracle reference name of a card which has an alternate name in its upper left corner. See rule 201.6.
@@ -1692,7 +1695,7 @@ Set Aside (Obsolete)
 “Set [something] aside” is an obsolete term for “exile [something].” Cards with that text have received errata in the Oracle card reference. See Exile.
 
 Set in Motion
-To move a scheme card off the top of your scheme deck and turn it face up. See rule 701.25, “Set in Motion.”
+To move a scheme card off the top of your scheme deck and turn it face up. See rule 701.32, “Set in Motion.”
 
 Shadow
 A keyword ability that restricts how a creature may be blocked and which creatures it can block. See rule 702.28, “Shadow.”
@@ -1716,7 +1719,7 @@ Shroud
 A keyword ability that precludes a permanent or player from being targeted. See rule 702.18, “Shroud.”
 
 Shuffle
-To randomize the cards in a deck (before a game) or library (during a game). See rule 103.3 and rule 701.20.
+To randomize the cards in a deck (before a game) or library (during a game). See rule 103.3 and rule 701.24.
 
 Sideboard
 Extra cards that may be used to modify a deck between games of a match. See rules 100.4.
@@ -1882,13 +1885,13 @@ Supervillain Rumble
 A Free-for-All game in which each player is an archenemy. See rule 806, “Free-for-All,” and rule 904, “Archenemy.”
 
 Support
-A keyword action that lets you put +1/+1 counters on creatures. See rule 701.35, “Support.”
+A keyword action that lets you put +1/+1 counters on creatures. See rule 701.41, “Support.”
 
 Surge
 A keyword ability that provides an alternative cost to cast a card if you or one of your teammates has cast another spell in the same turn. See rule 702.117, “Surge.”
 
 Surveil
-To manipulate some of the cards on top of your library, sending some of them to your graveyard and rearranging the rest. See rule 701.42, “Surveil.”
+To manipulate some of the cards on top of your library, sending some of them to your graveyard and rearranging the rest. See rule 701.25, “Surveil.”
 
 Suspend
 A keyword ability that provides an alternative way to play a card. See rule 702.62, “Suspend.” A card is “suspended” if it’s in the exile zone, has suspend, and has a time counter on it.
@@ -1903,10 +1906,10 @@ Swampwalk
 See Landwalk.
 
 Tap
-To turn a permanent sideways from an upright position. See rule 701.21, “Tap and Untap.”
+To turn a permanent sideways from an upright position. See rule 701.26, “Tap and Untap.”
 
 Tapped
-A status a permanent may have. See rule 110.5 and rule 701.21, “Tap and Untap.” See also Untapped.
+A status a permanent may have. See rule 110.5 and rule 701.26, “Tap and Untap.” See also Untapped.
 
 Tap Symbol
 The tap symbol {T} in an activation cost means “Tap this permanent.” See rule 107.5.
@@ -1935,8 +1938,11 @@ Threshold
 Ticket Symbol
 The ticket symbol {TK} with no numbers in it represents one ticket counter. The ticket symbol with a number in it represents a ticket cost. To pay a ticket cost, a player removes that many ticket counters from themselves.
 
+Tiered
+A keyword ability found on some modal spells that requires you to pay an additional cost for the mode you choose. See rule 702.183, “Tiered.”
+
 Time Travel
-To add a time counter to or remove a time counter from any number of permanents you control with a time counter on them or suspended cards you own in exile with time counters on them. See rule 701.54, “Time Travel.”
+To add a time counter to or remove a time counter from any number of permanents you control with a time counter on them or suspended cards you own in exile with time counters on them. See rule 701.56, “Time Travel.”
 
 Timestamp Order
 A system used to determine in which order continuous effects in the same layer or sublayer are applied. See rule 613.7. See also Dependency.
@@ -1985,7 +1991,7 @@ Transfigure
 A keyword ability that lets a player search their library for a replacement creature card. See rule 702.71, “Transfigure.”
 
 Transform
-To turn a double-faced card so its other face is up. See rule 701.28, “Transform.”
+To turn a double-faced card so its other face is up. See rule 701.27, “Transform.”
 
 Transforming Double-Faced Cards
 One of two kinds of double-faced cards. Transforming double-faced cards default to their front faces but can transform to their back faces in some way. See rule 712, “Double-Faced Cards.”
@@ -2013,6 +2019,9 @@ A kind of ability. Triggered abilities begin with the word “when,” “whenev
 
 Trigger Event
 The event that a triggered ability looks for. Whenever the trigger event occurs, the triggered ability triggers. See rule 603, “Handling Triggered Abilities.”
+
+Triple
+A keyword action that increases a creature’s power and/or toughness. See rule 701.11, “Triple.”
 
 Turn-Based Actions
 Game actions that happen automatically when certain steps or phases begin, or when each step or phase ends. See rule 703, “Turn-Based Actions.”
@@ -2076,7 +2085,7 @@ Unlocked
 One half of a split permanent is “unlocked” if it has the appropriate unlocked designation. See rule 709.5.
 
 Untap
-To rotate a permanent back to the upright position from a sideways position. See rule 701.21, “Tap and Untap.”
+To rotate a permanent back to the upright position from a sideways position. See rule 701.26, “Tap and Untap.”
 
 Untap Step
 Part of the turn. This step is the first step of the beginning phase. See rule 502, “Untap Step.”
@@ -2085,7 +2094,7 @@ Untap Symbol
 The untap symbol {Q} in an activation cost means “Untap this permanent.” See rule 107.6.
 
 Untapped
-A default status a permanent may have. See rule 110.5 and rule 701.21, “Tap and Untap.” See also Tapped.
+A default status a permanent may have. See rule 110.5 and rule 701.26, “Tap and Untap.” See also Tapped.
 
 Upkeep Step
 Part of the turn. This step is the second step of the beginning phase. See rule 503, “Upkeep Step.”
@@ -2107,10 +2116,10 @@ Vehicle
 An artifact subtype. Vehicles can become artifact creatures. See rule 301, “Artifacts,” and rule 702.122, “Crew.”
 
 Venture into [Quality]
-A variant of the venture into the dungeon ability that allows a player to bring a dungeon card with [quality] into the game or move a player’s venture marker. See rule 701.46, “Venture into the Dungeon.”
+A variant of the venture into the dungeon ability that allows a player to bring a dungeon card with [quality] into the game or move a player’s venture marker. See rule 701.49, “Venture into the Dungeon.”
 
 Venture into the Dungeon
-A keyword action that can bring dungeon cards into the game from outside the game or move a player’s venture marker. See rule 701.46, “Venture into the Dungeon.”
+A keyword action that can bring dungeon cards into the game from outside the game or move a player’s venture marker. See rule 701.49, “Venture into the Dungeon.”
 
 Venture Marker
 A marker used to track which room of a dungeon card a player is currently in. See rule 309, “Dungeons.”
@@ -2122,7 +2131,7 @@ Visit
 A keyword ability found on Attraction cards. It provides an effect whenever you roll to visit your attractions and get certain results. See rule 702.159, “Visit.”
 
 Vote
-Some cards instruct players to vote from among given options. See rule 701.32, “Vote.”
+Some cards instruct players to vote from among given options. See rule 701.38, “Vote.”
 
 Walker Token
 A Walker token is a 2/2 black Zombie creature token named Walker. For more information on predefined tokens, see rule 111.10.

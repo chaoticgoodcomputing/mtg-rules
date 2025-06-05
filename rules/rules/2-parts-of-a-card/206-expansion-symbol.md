@@ -12,4 +12,4 @@
 
 206.4. Players may include cards from any printing in their constructed decks if those cards appear in sets allowed in that format (or those cards are specifically allowed by the Magic: The Gathering Tournament Rules). See the Magic: The Gathering Tournament Rules for the current definitions of the constructed formats (WPN.Wizards.com/en/resources/rules-documents).
 
-206.5. The full list of expansions and expansion symbols can be found in the Card Set Archive section of the Magic website (Magic.Wizards.com/en/game-info/products/card-set-archive).
+206.5. The full list of expansions and expansion symbols can be found in the Card Set Archive section of the Magic website (Magic.Wizards.com/en/products/card-set-archive).
