@@ -228,7 +228,7 @@ Blocking Creature
 A creature that has either been declared as part of a legal block during the combat phase (once all costs to block, if any, have been paid), or a creature that has been put onto the battlefield blocking. It remains a blocking creature until it’s removed from combat or the combat phase ends, whichever comes first. See rule 509, “Declare Blockers Step.”
 
 Blood Token
-A Blood token is a colorless artifact token with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.” For more information about predefined tokens, see rule 111.10.
+A Blood token is a colorless artifact token with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.” For more information about predefined tokens, see rule 111.10.
 
 Bloodthirst
 A keyword ability that can have a creature enter the battlefield with +1/+1 counters on it. See rule 702.54, “Bloodthirst.”
@@ -327,7 +327,7 @@ Cloak
 A keyword action that puts a card onto the battlefield face down as a 2/2 creature with ward {2}. See rule 701.58, “Cloak,” and rule 708, “Face-Down Spells and Permanents.”
 
 Clue Token
-A Clue token is a colorless artifact token with “{2}, Sacrifice this artifact: Draw a card.” For more information about predefined tokens, see rule 111.10.
+A Clue token is a colorless artifact token with “{2}, Sacrifice this token: Draw a card.” For more information about predefined tokens, see rule 111.10.
 
 Collect Evidence
 A keyword action. To “collect evidence N” means to exile any number of cards from your graveyard with total mana value N or greater. See rule 701.59, “Collect Evidence.”
@@ -362,8 +362,8 @@ Command
 A zone for certain specialized objects that have an overarching effect on the game, yet are not permanents and cannot be destroyed. See rule 408, “Command.”
 
 Commander
-1. A casual variant in which each deck is led by a legendary creature. See rule 903, “Commander.”
-2. A designation given to one legendary creature card in each player’s deck in the Commander casual variant.
+1. A casual variant in which each deck is led by a legendary card (usually a creature). See rule 903, “Commander.”
+2. A designation given to one legendary card in each player’s deck in the Commander casual variant.
 
 Commander Draft
 A casual variant in which players participate in a booster draft and then play multiplayer games. See rule 903.13, “Commander Draft.”
@@ -411,7 +411,7 @@ Control, Controller
 “Control” is the system that determines who gets to use an object in the game. An object’s “controller” is the player who currently controls it. See rule 108.4.
 
 Control Another Player
-To make all choices and decisions that player is allowed to make, or is told to make, by rules or by any objects. See rule 721, “Controlling Another Player.”
+To make all choices and decisions that player is allowed to make, or is told to make, by rules or by any objects. See rule 722, “Controlling Another Player.”
 
 Convert
 To turn a double-faced card so its other face is up. See rule 701.28, “Convert.”
@@ -474,10 +474,10 @@ Dash
 A keyword ability found on creature cards that allows them to be cast for an alternative cost. See rule 702.109, “Dash.”
 
 Day
-Along with night, a designation the game can have. See rule 729, “Day and Night,” and rule 702.145, “Daybound and Nightbound.”
+Along with night, a designation the game can have. See rule 730, “Day and Night,” and rule 702.145, “Daybound and Nightbound.”
 
 Daybound
-An ability found on the front faces of some double-faced cards. Cards with daybound and nightbound are face up when it’s day and face down when it’s night. See rule 702.145, “Daybound and Nightbound,” and rule 729, “Day and Night.”
+An ability found on the front faces of some double-faced cards. Cards with daybound and nightbound are face up when it’s day and face down when it’s night. See rule 702.145, “Daybound and Nightbound,” and rule 730, “Day and Night.”
 
 Deal
 See Damage.
@@ -654,10 +654,10 @@ End Step
 Part of the turn. This step is the first step of the ending phase. See rule 513, “End Step.”
 
 End the Combat Phase
-To “end the combat phase” as the result of an effect is to perform an expedited process that skips everything else that would happen that phase. See rule 722, “Ending Turns and Phases.”
+To “end the combat phase” as the result of an effect is to perform an expedited process that skips everything else that would happen that phase. See rule 723, “Ending Turns and Phases.”
 
 End the Turn
-To “end the turn” as the result of an effect is to perform an expedited process that skips nearly everything else that would happen that turn. See rule 722, “Ending Turns and Phases.”
+To “end the turn” as the result of an effect is to perform an expedited process that skips nearly everything else that would happen that turn. See rule 723, “Ending Turns and Phases.”
 
 Ending Phase
 Part of the turn. This phase is the fifth and final phase of the turn. See rule 512, “Ending Phase.”
@@ -809,7 +809,7 @@ Flying
 A keyword ability that restricts how a creature may be blocked. See rule 702.9, “Flying.”
 
 Food Token
-A Food token is a colorless artifact token with “{2}, {T}, Sacrifice this artifact: You gain 3 life.” For more information about predefined tokens, see rule 111.10.
+A Food token is a colorless artifact token with “{2}, {T}, Sacrifice this token: You gain 3 life.” For more information about predefined tokens, see rule 111.10.
 
 For Mirrodin!
 A keyword ability that creates a 2/2 red Rebel creature token and then attaches the Equipment with the ability to that token. See rule 702.163, “For Mirrodin!”
@@ -881,7 +881,7 @@ Goaded
 A designation a permanent can have. Goaded creatures are forced to attack and to attack a player other than the player that caused it to be goaded. See rule 701.15, “Goad.”
 
 Gold Token
-A Gold token is a colorless artifact token with “Sacrifice this artifact: Add one mana of any color.” For more information on predefined tokens, see rule 111.10.
+A Gold token is a colorless artifact token with “Sacrifice this token: Add one mana of any color.” For more information on predefined tokens, see rule 111.10.
 
 Graft
 A keyword ability that has a permanent enter the battlefield with +1/+1 counters on it and can move those counters to other creatures. See rule 702.58, “Graft.”
@@ -945,13 +945,13 @@ Job Select
 A keyword ability that creates a 1/1 colorless Hero creature token and then attaches the Equipment with the ability to that token. See rule 702.182, “Job Select.”
 
 Junk Token
-A Junk token is a colorless artifact token with {T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.” For more information about predefined tokens, see rule 111.10.
+A Junk token is a colorless artifact token with {T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.” For more information about predefined tokens, see rule 111.10.
 
 If
 See Intervening “If” Clause.
 
 Illegal Action
-An action that violates the rules of the game and/or requirements or restrictions created by effects. See rule 731, “Handling Illegal Actions.”
+An action that violates the rules of the game and/or requirements or restrictions created by effects. See rule 732, “Handling Illegal Actions.”
 
 Illegal Target
 A target that no longer exists or no longer meets the specifications stated by the spell or ability that’s targeting it. See rule 608.2b.
@@ -981,7 +981,7 @@ Incubate
 A keyword action that creates an Incubator token with a specified number of +1/+1 counters on it. See rule 701.53, “Incubate.”
 
 Incubator Token
-An Incubator token is a transforming double-faced token. Its front face is a colorless Incubator artifact with “{2}: Transform this artifact.” Its back face is a 0/0 colorless Phyrexian artifact creature named “Phyrexian Token.” For more information about predefined tokens, see rule 111.10.
+An Incubator token is a transforming double-faced token. Its front face is a colorless Incubator artifact with “{2}: Transform this token.” Its back face is a 0/0 colorless Phyrexian artifact creature named “Phyrexian Token.” For more information about predefined tokens, see rule 111.10.
 
 Independent
 See Dependency.
@@ -996,7 +996,7 @@ Ingest
 A keyword ability that can exile the top card of a player’s library. See rule 702.115, “Ingest.”
 
 Initiative
-A designation a player can have. Some effects instruct a player to take the initiative. The player with the initiative ventures into Undercity whenever they take the initiative and at the beginning of their upkeep. See rule 724, “The Initiative.”
+A designation a player can have. Some effects instruct a player to take the initiative. The player with the initiative ventures into Undercity whenever they take the initiative and at the beginning of their upkeep. See rule 725, “The Initiative.”
 
 Instant
 A card type. An instant is not a permanent. See rule 304, “Instants.”
@@ -1051,6 +1051,9 @@ A card type. A land is a permanent. See rule 305, “Lands.”
 
 Land Type
 A subtype that’s correlated to the land card type. See rule 305, “Lands.” See rule 205.3i for the list of land types.
+
+Lander Token
+A Lander token is a colorless artifact token with “{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.” For more information about predefined tokens, see rule 111.10.
 
 Landwalk
 A generic term for a group of keyword abilities that restrict whether a creature may be blocked. See rule 702.14, “Landwalk.”
@@ -1136,7 +1139,7 @@ London Mulligan
 Informal term for the current system of mulligan rules. See rule 103.5.
 
 Loop
-A set of actions that could be repeated indefinitely. See rule 730, “Taking Shortcuts.”
+A set of actions that could be repeated indefinitely. See rule 731, “Taking Shortcuts.”
 
 Lose the Game
 There are several ways to lose the game. See rule 104, “Ending the Game,” rule 810.8 (for additional rules for Two-Headed Giant games), rule 809.5 (for additional rules for Emperor games), and rule 903.10 (for an additional rule for Commander games).
@@ -1152,7 +1155,7 @@ Madness
 A keyword ability that lets a player cast a card they discard. See rule 702.35, “Madness.”
 
 Main Game
-The game in which a spell (or ability) that created a subgame was cast (or activated). See rule 727, “Subgames.”
+The game in which a spell (or ability) that created a subgame was cast (or activated). See rule 728, “Subgames.”
 
 Main Phase
 Part of the turn. The first, or precombat, main phase is the second phase of the turn. The second, or postcombat, main phase is the fourth phase of the turn. See rule 505, “Main Phase.”
@@ -1188,7 +1191,7 @@ Manifest Dread
 A keyword action that puts one of the top two cards of your library onto the battlefield face down as a 2/2 creature. See rule 701.62, “Manifest Dread,” rule 701.40, “Manifest,” and rule 708, “Face-Down Spells and Permanents.”
 
 Map
-A Map token is a colorless Map artifact token with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.” See rule 701.44, “Explore.” For more information about predefined tokens, see rule 110.10.
+A Map token is a colorless Map artifact token with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.” See rule 701.44, “Explore.” For more information about predefined tokens, see rule 110.10.
 
 Match
 A multiplayer game or a two-player series of games (usually best-two-of-three) played in a tournament. See rule 100.6.
@@ -1219,7 +1222,7 @@ Mentor
 A keyword ability that lets your bigger creatures power up your smaller creatures when they attack together. See rule 702.134, “Mentor.”
 
 Merged Permanent
-A card or token may merge with a permanent to form a merged permanent. This merged permanent is represented by more than one card and/or token. See rule 728, “Merging with Permanents.”
+A card or token may merge with a permanent to form a merged permanent. This merged permanent is represented by more than one card and/or token. See rule 729, “Merging with Permanents.”
 
 Mill
 To mill a number of cards, a player puts that many cards from the top of their library into their graveyard. See rule 701.17.
@@ -1246,7 +1249,7 @@ Modular
 A keyword ability that has a permanent enter the battlefield with +1/+1 counters on it and can move those counters to other artifact creatures. See rule 702.43, “Modular.”
 
 Monarch
-A designation a player can have. Some effects instruct a player to become the monarch. The monarch draws a card at the beginning of their end step. Dealing combat damage to the monarch steals the title from that player. See rule 723, “The Monarch.”
+A designation a player can have. Some effects instruct a player to become the monarch. The monarch draws a card at the beginning of their end step. Dealing combat damage to the monarch steals the title from that player. See rule 724, “The Monarch.”
 
 Mono Artifact (Obsolete)
 An obsolete term that appeared on the type line of artifacts with activated abilities that caused the artifact to become tapped as a cost. Cards printed with this text have received errata in the Oracle card reference to simply say “Artifact,” and those abilities now include the tap symbol in their costs.
@@ -1298,7 +1301,7 @@ Mutate
 A keyword that lets a creature card be cast as a mutating creature spell. See rule 702.140, “Mutate.”
 
 Mutating Creature Spell
-A creature spell cast using the mutate keyword ability. As it resolves, if its target creature is legal, it merges with the target creature. The resulting creature has all characteristics of the topmost component and has the abilities of each component. See rule 702.140, “Mutate,” and rule 728, “Merging with Permanents.”
+A creature spell cast using the mutate keyword ability. As it resolves, if its target creature is legal, it merges with the target creature. The resulting creature has all characteristics of the topmost component and has the abilities of each component. See rule 702.140, “Mutate,” and rule 729, “Merging with Permanents.”
 
 Myriad
 Myriad is a triggered ability that effectively lets a creature attack in all possible directions. See rule 702.116, “Myriad.”
@@ -1307,10 +1310,10 @@ Name
 A characteristic, and part of a card. A card’s name is printed in its upper left corner. See rule 201, “Name.”
 
 Night
-Along with day, a designation the game can have. See rule 729, “Day and Night,” and rule 702.145, “Daybound and Nightbound.”
+Along with day, a designation the game can have. See rule 730, “Day and Night,” and rule 702.145, “Daybound and Nightbound.”
 
 Nightbound
-An ability found on the back faces of some double-faced cards. Cards with daybound and nightbound are face up when it’s day and face down when it’s night. See rule 702.145, “Daybound and Nightbound,” and rule 729, “Day and Night.”
+An ability found on the back faces of some double-faced cards. Cards with daybound and nightbound are face up when it’s day and face down when it’s night. See rule 702.145, “Daybound and Nightbound,” and rule 730, “Day and Night.”
 
 Ninjutsu
 A keyword ability that lets a creature suddenly enter combat. See rule 702.49, “Ninjutsu.”
@@ -1547,7 +1550,7 @@ Public Zone
 A zone in which all players can be expected to see the cards’ faces. See rule 400.2. See also Hidden Zone.
 
 Rad Counter
-A type of counter a player can have that causes that player to mill cards at the beginning of their precombat main phase, then lose 1 life and remove one rad counter for each nonland card milled this way. See rule 122, “Counters,” and rule 726, “Rad Counters.”
+A type of counter a player can have that causes that player to mill cards at the beginning of their precombat main phase, then lose 1 life and remove one rad counter for each nonland card milled this way. See rule 122, “Counters,” and rule 727, “Rad Counters.”
 
 Rampage
 A keyword ability that can make a creature better in combat. See rule 702.23, “Rampage.”
@@ -1701,7 +1704,7 @@ Shadow
 A keyword ability that restricts how a creature may be blocked and which creatures it can block. See rule 702.28, “Shadow.”
 
 Shard Token
-A Shard token is a colorless enchantment token with “{2}, Sacrifice this enchantment: Scry 1, then draw a card.” For more information on predefined tokens, see rule 111.10.
+A Shard token is a colorless enchantment token with “{2}, Sacrifice this token: Scry 1, then draw a card.” For more information on predefined tokens, see rule 111.10.
 
 Shared Life Total
 In the Two-Headed Giant multiplayer variant, each team has a “shared life total” rather than each player having an individual life total. See rule 810, “Two-Headed Giant Variant.”
@@ -1713,7 +1716,7 @@ Shield Counter
 A counter that protects a permanent from being damaged or destroyed. See rule 122.1c.
 
 Shortcut
-A mutually understood way for the game to advance forward a number of game choices (either taking an action or passing priority) without players needing to explicitly identify each such choice. See rule 730, “Taking Shortcuts.”
+A mutually understood way for the game to advance forward a number of game choices (either taking an action or passing priority) without players needing to explicitly identify each such choice. See rule 731, “Taking Shortcuts.”
 
 Shroud
 A keyword ability that precludes a permanent or player from being targeted. See rule 702.18, “Shroud.”
@@ -1836,6 +1839,12 @@ A triggered ability that triggers when a game state is true rather than triggeri
 Static Ability
 A kind of ability. Static abilities do something all the time rather than being activated or triggered. See rule 113, “Abilities,” and rule 604, “Handling Static Abilities.”
 
+Station
+A keyword ability that lets you tap creatures to add charge counters to station cards. See rule 702.184, “Station,” and rule 721, “Station Cards.”
+
+Station Cards
+Cards with striated text boxes, one or more station symbols, and the station ability. See rule 721, “Station Cards.”
+
 Status
 The physical state of a permanent. See rule 110.5.
 
@@ -1858,7 +1867,7 @@ Stun Counter
 A counter that stops a permanent from untapping. See rule 122.1d.
 
 Subgame
-A completely separate Magic game created by an effect. See rule 727, “Subgames.”
+A completely separate Magic game created by an effect. See rule 728, “Subgames.”
 
 Substitute Card
 A game supplement with a Magic card back that can be used to represent a double-faced card or meld card. See rule 713, “Substitute Cards.”
@@ -2000,7 +2009,7 @@ Transmute
 A keyword ability that lets a player search their library for a replacement card. See rule 702.53, “Transmute.”
 
 Treasure Token
-A Treasure token is a colorless artifact token with “{T}, Sacrifice this artifact: Add one mana of any color.” For more information about predefined tokens, see rule 111.10.
+A Treasure token is a colorless artifact token with “{T}, Sacrifice this token: Add one mana of any color.” For more information about predefined tokens, see rule 111.10.
 
 Tribal (Obsolete)
 An obsolete card type that has been renamed. See rule 308, “Kindreds.”
@@ -2141,6 +2150,9 @@ A creature type with no particular rules meaning. Older cards with the Wall crea
 
 Ward
 A triggered ability that can counter spells or abilities that target the permanent with ward. See rule 702.21, “Ward.”
+
+Warp
+A keyword ability found on permanent cards that allows them to be cast for an alternative cost. See rule 702.185, “Warp.”
 
 Win the Game
 There are several ways to win the game. See rule 104, “Ending the Game,” and rules 810.8 (for additional rules for Two-Headed Giant games) and rule 809.5 (for additional rules for Emperor games).

@@ -2,7 +2,7 @@
 
 800.2. These rules consist of a series of options that can be added to a multiplayer game and a number of variant styles of multiplayer play. A single game may use multiple options but only one variant.
 
-800.3. Many multiplayer Magic tournaments have additional rules not included here, including rules for deck construction. See the most current Magic: The Gathering Tournament Rules for more information. They can be found at WPN.Wizards.com/en/resources/rules-documents.
+800.3. Many multiplayer Magic tournaments have additional rules not included here, including rules for deck construction. See the most current Magic: The Gathering Tournament Rules for more information. They can be found at WPN.wizards.com/en/rules-documents.
 
 800.4. Unlike two-player games, multiplayer games can continue after one or more players have left the game.
 

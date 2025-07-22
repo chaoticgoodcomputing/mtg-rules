@@ -129,17 +129,18 @@ Contents
 718. Prototype Cards
 719. Case Cards
 720. Omen Cards
-721. Controlling Another Player
-722. Ending Turns and Phases
-723. The Monarch
-724. The Initiative
-725. Restarting the Game
-726. Rad Counters
-727. Subgames
-728. Merging with Permanents
-729. Day and Night
-730. Taking Shortcuts
-731. Handling Illegal Actions
+721. Station Cards
+722. Controlling Another Player
+723. Ending Turns and Phases
+724. The Monarch
+725. The Initiative
+726. Restarting the Game
+727. Rad Counters
+728. Subgames
+729. Merging with Permanents
+730. Day and Night
+731. Taking Shortcuts
+732. Handling Illegal Actions
 
 8. Multiplayer Rules
 800. General

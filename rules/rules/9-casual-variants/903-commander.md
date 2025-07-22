@@ -2,7 +2,7 @@
 
 903.2. A Commander game may be a two-player game or a multiplayer game. The default multiplayer setup is the Free-for-All variant with the attack multiple players option and without the limited range of influence option. See rule 806, “Free-for-All Variant.”
 
-903.3. Each deck has a legendary creature card designated as its commander. This designation is not a characteristic of the object represented by the card; rather, it is an attribute of the card itself. The card retains this designation even when it changes zones.
+903.3. Each deck has a legendary card designated as its commander. That card must be either (a) a creature card, (b) a Vehicle card, or (c) a Spacecraft card with one or more power/toughness boxes. This designation is not a characteristic of the object represented by the card; rather, it is an attribute of the card itself. The card retains this designation even when it changes zones.
 Example: A commander that’s been turned face down (due to Ixidron’s effect, for example) is still a commander. A commander that’s copying another card (due to Cytoshape’s effect, for example) is still a commander. A permanent that’s copying a commander (such as a Body Double, for example, copying a commander in a player’s graveyard) is not a commander.
 
 903.3a Some cards have an ability that states the card can be your commander. This ability modifies the rules for deck construction, and it functions before the game begins. See also rule 113.6n.
@@ -43,6 +43,8 @@ Example: Wort, the Raidmother is a legendary creature with mana cost {4}{R/G}{R/
 903.5d A card with a basic land type may be included in a Commander deck only if each color of mana it could produce is included in the commander’s color identity.
 Example: Wort, the Raidmother’s color identity is red and green. A Wort Commander deck may include land cards with the basic land types Mountain and/or Forest. It can’t include any land cards with the basic land types Plains, Island, or Swamp.
 
+903.5e Commander games do not use sideboards.
+
 903.6. At the start of the game, each player puts their commander from their deck face up into the command zone. Then each player shuffles the remaining cards of their deck so that the cards are in a random order. Those cards become the player’s library.
 
 903.7. Once the starting player has been determined, each player sets their life total to 40 and draws a hand of seven cards.
@@ -61,7 +63,9 @@ Example: Wort, the Raidmother’s color identity is red and green. A Wort Comman
 
 903.10a A player who’s been dealt 21 or more combat damage by the same commander over the course of the game loses the game. (This is a state-based action. See rule 704.)
 
-903.11. If a player is allowed to bring a card from outside the game into a Commander game, that player can’t bring a card into the game this way if it has the same name as a card that player had in their starting deck, if it has the same name as a card that the player owns in the current game, or if any color in its color identity isn’t in the color identity of the player’s commander.
+903.11. Except via rules, special actions, and effects that specifically bring cards into Commander games from outside the game, traditional cards from outside the game cannot be brought into a Commander game.
+
+903.11a If a player is allowed to bring a card from outside the game into a Commander game, that player can’t bring a card into the game this way if it has the same name as a card that player had in their starting deck, if it has the same name as a card that the player owns in the current game, or if any color in its color identity isn’t in the color identity of the player’s commander.
 
 903.12. Brawl Option
 
@@ -69,7 +73,7 @@ Example: Wort, the Raidmother’s color identity is red and green. A Wort Comman
 
 903.12b Brawl decks are usually constructed using cards from the Standard format.
 
-903.12c A player designates either a legendary planeswalker or a legendary creature as their commander.
+903.12c Each deck has a legendary card designated as its commander. That card must be either (a) a creature card, (b) a planeswalker card, (c) a Vehicle card, or (d) a Spacecraft card with one or more power/toughness boxes.
 
 903.12d A player’s deck must contain exactly 60 cards, including its commander. In other words, the minimum deck size and the maximum deck size are both 60.
 

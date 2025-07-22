@@ -1,4 +1,4 @@
-407.1. Earlier versions of the Magic rules included an ante rule as a way of playing “for keeps.” Playing Magic games for ante is now considered an optional variation on the game, and it’s allowed only where it’s not forbidden by law or by other rules. Playing for ante is strictly forbidden under the Magic: The Gathering Tournament Rules (WPN.Wizards.com/en/resources/rules-documents).
+407.1. Earlier versions of the Magic rules included an ante rule as a way of playing “for keeps.” Playing Magic games for ante is now considered an optional variation on the game, and it’s allowed only where it’s not forbidden by law or by other rules. Playing for ante is strictly forbidden under the Magic: The Gathering Tournament Rules (WPN.Wizards.com/en/rules-documents).
 
 407.2. When playing for ante, each player puts one random card from their deck into the ante zone after determining which player goes first but before players draw any cards. Cards in the ante zone may be examined by any player at any time. At the end of the game, the winner becomes the owner of all the cards in the ante zone.
 
