@@ -65,6 +65,6 @@ Example: Rob is within Alex’s range of influence, but Carissa is not. Carissa 
 
 801.16. If the game somehow enters a “loop” of mandatory actions, repeating a sequence of events with no way to stop, the game is a draw for each player who controls an object that’s involved in that loop, as well as for each player within the range of influence of any of those players. They leave the game. All remaining players continue to play the game.
 
-801.17. Effects that restart the game (see rule 725) are exempt from the limited range of influence option. All players in the game will be involved in the new game.
+801.17. Effects that restart the game (see rule 726) are exempt from the limited range of influence option. All players in the game will be involved in the new game.
 
 801.18. In multiplayer Planechase games other than Grand Melee games, plane cards and phenomenon cards are exempt from the limited range of influence option. Their abilities, and the effects of those abilities, affect all applicable objects and players in the game. See rule 901, “Planechase.”

@@ -1143,13 +1143,15 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 
 702.139c Once you take the special action and put the card with companion into your hand, it remains in the game until the game ends.
 
+702.139d Cards can enter Commander games from outside the game via the companion special action.
+
 702.140. Mutate
 
 702.140a Mutate appears on some creature cards. It represents a static ability that functions while the spell with mutate is on the stack. “Mutate [cost]” means “You may pay [cost] rather than pay this spell’s mana cost. If you do, it becomes a mutating creature spell and targets a non-Human creature with the same owner as this spell.” Casting a spell using its mutate ability follows the rules for paying alternative costs (see 601.2b and 601.2f–h).
 
 702.140b As a mutating creature spell begins resolving, if its target is illegal, it ceases to be a mutating creature spell and continues resolving as a creature spell and will be put onto the battlefield under the control of the spell’s controller.
 
-702.140c As a mutating creature spell resolves, if its target is legal, it doesn’t enter the battlefield. Rather, it merges with the target creature and becomes one object represented by more than one card or token (see rule 728, “Merging with Permanents”). The spell’s controller chooses whether the spell is put on top of the creature or on the bottom. The resulting permanent is a mutated permanent.
+702.140c As a mutating creature spell resolves, if its target is legal, it doesn’t enter the battlefield. Rather, it merges with the target creature and becomes one object represented by more than one card or token (see rule 729, “Merging with Permanents”). The spell’s controller chooses whether the spell is put on top of the creature or on the bottom. The resulting permanent is a mutated permanent.
 
 702.140d An ability that triggers whenever a creature mutates triggers when a spell merges with a creature as a result of a resolving mutating creature spell.
 
@@ -1189,7 +1191,7 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 
 702.145a Daybound and nightbound are found on opposite faces of some transforming double-faced cards (see rule 712, “Double-Faced Cards”).
 
-702.145b Daybound is found on the front faces of some transforming double-faced cards and represents three static abilities. “Daybound” means “If it is night and this permanent is represented by a transforming double-faced card, it enters transformed,” “As it becomes night, if this permanent is front face up, transform it,” and “This permanent can’t transform except due to its daybound ability.” See rule 729, “Day and Night.”
+702.145b Daybound is found on the front faces of some transforming double-faced cards and represents three static abilities. “Daybound” means “If it is night and this permanent is represented by a transforming double-faced card, it enters transformed,” “As it becomes night, if this permanent is front face up, transform it,” and “This permanent can’t transform except due to its daybound ability.” See rule 730, “Day and Night.”
 
 702.145c Any time a player controls a permanent that is front face up with daybound and it’s night, that player transforms that permanent. This happens immediately and isn’t a state-based action.
 
@@ -1396,7 +1398,7 @@ Example: If a creature with toxic 2 gains toxic 1 due to another effect, its tot
 
 702.172a Spree is a static ability found on some modal spells (see rule 700.2) that applies while the spell on the stack. Spree means “Choose one or more modes. As an additional cost to cast this spell, pay the costs associated with those modes.”
 
-702.172b Cards with the spree ability have a plus sign icon in the upper right corner of the card, and use a plus sign (+) rather than traditional cullet points. These symbols are a visual reminder that this card requires an additional cost to be cast, and do not have additional rules meaning..
+702.172b Cards with the spree ability have a plus sign icon in the upper right corner of the card, and use a plus sign (+) rather than traditional bullet points. These symbols are a visual reminder that this card requires an additional cost to be cast, and do not have additional rules meaning.
 
 702.173. Freerunning
 
@@ -1404,7 +1406,7 @@ Example: If a creature with toxic 2 gains toxic 1 due to another effect, its tot
 
 702.174. Gift
 
-702.174a Gift is a keyword that represents two abilities. It is written “Gift a [something].” The first ability is a static ability that functions while the card with gift is on the stack, and the second is either a static ability that functions while the card with gift is on the stack or a triggered ability that functions while the card with gift is on the battlefield. The first ability is always “As an additional cost to cast this spell, you may choose an opponent.” Paying a spell’s gift cost follows the rules for paying additional costs in rules 601.2b and 601.2f–h. The second ability depends on the [something] listed as well as whether the object with the ability is a permanent or an instant or sorcery spell.
+702.174a Gift is a keyword that represents two abilities. It is written “Gift a [something].” The first ability is a static ability that functions while the card with gift is on the stack, and the second is either an ability that functions while the card with gift is on the stack or a triggered ability that functions while the card with gift is on the battlefield. The first ability is always “As an additional cost to cast this spell, you may choose an opponent.” Paying a spell’s gift cost follows the rules for paying additional costs in rules 601.2b and 601.2f–h. The second ability depends on the [something] listed as well as whether the object with the ability is a permanent or an instant or sorcery spell.
 
 702.174b On a permanent, the second ability represented by gift is “When this permanent enters, if its gift cost was paid, [effect].” On an instant or sorcery spell, the second ability represented by gift is “If this spell’s gift cost was paid, [effect].” The specific effect is defined by the [something] listed.
 
@@ -1467,7 +1469,7 @@ Example: Elvish Refueler has an exhaust ability that costs mana and also has an 
 
 702.180. Harmonize
 
-702.180a Harmonize represents three static abilities that function while the spell with harmonize is on the stack. “Harmonize [cost]” means “You may cast this spell from your graveyard by paying [cost] and tapping up to one untapped creature you control rather than paying this spell’s mana cost,” “If you cast this spell using its harmonize ability, its total cost is reduced by an amount of generic mana equal to the tapped creature’s power,” and “If the harmonize cost was paid, exile this card instead of putting it anywhere else any time it would leave the stack.” Casting a spell using its harmonize ability follows the rules for paying alternative costs in rules 601.2b and 601.2f–h.
+702.180a Harmonize represents three static abilities: one that functions while the card is in a player’s graveyard and two that function while the spell with harmonize is on the stack. “Harmonize [cost]” means “You may cast this spell from your graveyard by paying [cost] and tapping up to one untapped creature you control rather than paying this spell’s mana cost,” “If you cast this spell using its harmonize ability, its total cost is reduced by an amount of generic mana equal to the tapped creature’s power,” and “If the harmonize cost was paid, exile this card instead of putting it anywhere else any time it would leave the stack.” Casting a spell using its harmonize ability follows the rules for paying alternative costs in rules 601.2b and 601.2f–h.
 
 702.180b You choose which creature to tap as you choose to pay a spell’s harmonize cost (see rule 601.2b), and then tap that creature as you pay the total cost.
 
@@ -1482,3 +1484,20 @@ Example: Elvish Refueler has an exhaust ability that costs mana and also has an 
 702.183. Tiered
 
 702.183a Tiered is a static ability found on some modal spells (see rule 700.2) that applies while the spell is on the stack. Tiered means “Choose one. As an additional cost to cast this spell, pay the cost associated with that mode.”
+
+702.184. Station
+
+702.184a Station is an activated ability. “Station” means “Tap another untapped creature you control: Put a number of charge counters on this permanent equal to the tapped creature’s power. Activate only as a sorcery.”
+
+702.184b Each card printed with a station ability is known as a station card. It has a nonstandard layout and includes station symbols that are themselves keyword abilities. See rule 721, “Station Cards.”
+
+702.184c Static abilities may modify the result of a station ability by causing it to use a characteristic other than the tapped creature’s power to determine the number of counters placed on the permanent with the station ability.
+Example: Tapestry Warden has as ability that reads “Each creature you control with toughness greater than its power stations permanents using its toughness rather than its power.”
+
+702.185. Warp
+
+702.185a Warp represents two static abilities that function while the card with warp is on the stack, one of which may create a delayed triggered ability. “Warp [cost]” means “You may cast this card from your hand by paying [cost] rather than its mana cost” and “If this spell’s warp cost was paid, exile the permanent this spell becomes at the beginning of the next end step. Its owner may cast this card after the current turn has ended for as long as it remains exiled.” Casting a spell for its warp cost follows the rules for paying alternative costs in rules 601.2b and 601.2f–h.
+
+702.185b Some effects refer to “warped” cards in exile. A warped card in exile is one that was exiled by the delayed triggered ability created by a warp ability.
+
+702.185c Some effects refer to whether “a spell was warped this turn.” This means that a spell was cast for its warp cost this turn.
