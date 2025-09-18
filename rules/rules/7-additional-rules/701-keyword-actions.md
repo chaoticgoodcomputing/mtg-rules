@@ -247,19 +247,19 @@ Example: Darksteel Colossus and Gravebane Zombie are put into a player’s grave
 
 701.27. Transform
 
-701.27a To transform a permanent, turn it over so that its other face is up. Only transforming tokens and permanents represented by transforming double-faced cards can transform. (See rule 712, “Double-Faced Cards.”)
+701.27a To transform a permanent, turn it over so that its other face is up. Only permanents represented by double-faced tokens and double-faced cards can transform. (See rule 712, “Double-Faced Cards.”)
 
 701.27b Although transforming a permanent uses the same physical action as turning a permanent face up or face down, they are different game actions. Abilities that trigger when a permanent is turned face down won’t trigger when that permanent transforms, and so on.
 
-701.27c If a spell or ability instructs a player to transform a permanent that isn’t represented by a transforming token or a transforming double-faced card, nothing happens.
+701.27c If a spell or ability instructs a player to transform a permanent that isn’t represented by a double-faced token or a double-faced card, nothing happens.
 
-701.27d If a spell or ability instructs a player to transform a permanent, and the face that permanent would transform into is represented by an instant or sorcery card face, or is a transforming token that was created with an instant or sorcery face, nothing happens.
+701.27d If a spell or ability instructs a player to transform a permanent, and the face that permanent would transform into is an instant or sorcery face nothing happens.
 
 701.27e Some triggered abilities trigger when an object “transforms into” an object with a specified characteristic. Such an ability triggers if the object either transforms or converts (see rule 701.28) and has the specified characteristic immediately after it does so.
 
 701.27f If an activated or triggered ability of a permanent that isn’t a delayed triggered ability of that permanent tries to transform it, the permanent does so only if it hasn’t transformed or converted since the ability was put onto the stack. If a delayed triggered ability of a permanent tries to transform that permanent, the permanent does so only if it hasn’t transformed or converted since that delayed triggered ability was created. In both cases, if the permanent has already transformed or converted, an instruction to do either is ignored.
 
-701.27g Some spells and abilities refer to a “transformed permanent.” This phrase refers to a permanent on the battlefield with its back face up that’s also a transforming double-faced card or a transforming token. A permanent with its front face up is never considered a transformed permanent, even if it had its back face up previously.
+701.27g Some spells and abilities refer to a “transformed permanent.” This phrase refers to a double-faced permanent on the battlefield with its back face up. A permanent with its front face up is never considered a transformed permanent, even if it had its back face up previously. Similarly, an object represented by more than one card, such as a melded or merged permanent, is never considered a transformed permanent, even if it has components that are back face up. See rules 701.42, “Meld,” and 729, “Merging with Permanents.”
 
 701.28. Convert
 
@@ -267,9 +267,9 @@ Example: Darksteel Colossus and Gravebane Zombie are put into a player’s grave
 
 701.28b Although converting a permanent uses the same physical action as turning a permanent face up or face down, they are different game actions. Abilities that trigger when a permanent is turned face down won’t trigger when that permanent converts, and so on.
 
-701.28c If a spell or ability instructs a player to convert a permanent that isn’t represented by a transforming token or a transforming double-faced card, nothing happens.
+701.28c If a spell or ability instructs a player to convert a permanent that isn’t represented by a double-faced token or a double-faced card, nothing happens.
 
-701.28d If a spell or ability instructs a player to convert a permanent, and the face that permanent would convert into is represented by an instant or sorcery card face, or is a transforming token that was created with an instant or sorcery face, nothing happens.
+701.28d If a spell or ability instructs a player to convert a permanent, and the face that permanent would convert into is an instant or sorcery face, nothing happens.
 
 701.28e If an activated or triggered ability of a permanent that isn’t a delayed triggered ability of that permanent tries to convert it, the permanent does so only if it hasn’t converted or transformed since the ability was put onto the stack. If a delayed triggered ability of a permanent tries to convert that permanent, the permanent does so only if it hasn’t converted or transformed since that delayed triggered ability was created. In both cases, if the permanent has already transformed or converted, an instruction to do either is ignored.
 
@@ -400,7 +400,7 @@ Example: A player owns and controls Midnight Scavengers and a token that’s a c
 
 701.44c If a permanent changes zones before an effect causes it to explore, its last known information is used to determine which object explored and who controlled it.
 
-701.44d If multiple permanents are instructed to explore at the same time, the first player in APNAP order who controls (or, in the case of a permanent no longer on the battlefield, last controlled; see rule 701.44c) one or more of those permanents chooses one of them and it explores. Then this process is repeated for each remaining instruction to explore,
+701.44d If multiple permanents are instructed to explore at the same time, the first player in APNAP order who controls (or, in the case of a permanent no longer on the battlefield, last controlled; see rule 701.44c) one or more of those permanents chooses one of them and it explores. Then this process is repeated for each remaining instruction to explore.
 
 701.45. Assemble
 
@@ -462,7 +462,7 @@ Example: A player owns and controls Midnight Scavengers and a token that’s a c
 
 701.53a To incubate N, create an Incubator token that enters the battlefield with N +1/+1 counters on it. See rule 111.10i.
 
-701.53b An Incubator token is a transforming double-faced token. Its front face is a colorless Incubator artifact with “{2}: Transform this artifact.” Its back face is a 0/0 colorless Phyrexian artifact creature named “Phyrexian Token.”
+701.53b An Incubator token is a double-faced token. Its front face is a colorless Incubator artifact with “{2}: Transform this token.” Its back face is a 0/0 colorless Phyrexian artifact creature named “Phyrexian Token.”
 
 701.54. The Ring Tempts You
 
@@ -549,3 +549,9 @@ Example: A player owns and controls Midnight Scavengers and a token that’s a c
 701.63a Certain abilities instruct a permanent to endure N. To do so, that permanent’s controller creates an N/N white Spirit creature token unless they put N +1/+1 counters on that permanent.
 
 701.63b If a permanent is instructed to endure 0, nothing happens. No counters are put on that permanent and no tokens are created.
+
+701.64. Harness
+
+701.64a “Harness [this permanent]” means “If this permanent isn’t harnessed, it becomes harnessed.”
+
+701.64b Harnessed is a designation that has no rules meaning other than to act as a marker that other spells and abilities can identify. Only permanents can be or become harnessed. Once a permanent becomes harnessed, it stays harnessed until it leaves the battlefield. Harnessed is neither an ability nor part of the permanent’s copiable values.

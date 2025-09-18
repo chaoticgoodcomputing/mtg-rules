@@ -22,12 +22,12 @@ Example: An object with a mana cost of {2}{W} is white, an object with a mana co
 202.3. The mana value of an object is a number equal to the total amount of mana in its mana cost, regardless of color.
 Example: A mana cost of {3}{U}{U} translates to a mana value of 5.
 
-202.3a The mana value of an object with no mana cost is 0, unless that object is the back face of a transforming double-faced permanent or is a melded permanent.
+202.3a The mana value of an object with no mana cost is 0, unless that object is the back face of a nonmodal double-faced permanent or spell, or it is a melded permanent.
 
-202.3b The mana value of a transforming double-faced permanent or spell’s back face is calculated as though it had the mana cost of its front face. If a permanent or spell is a copy of the back face of a transforming double-faced card (even if the card representing that copy is itself a double-faced card), the mana value of the copy is 0.
-Example: Huntmaster of the Fells is a transforming double-faced card with mana cost {2}{R}{G}. Its mana value is 4. After it transforms to its other face (Ravager of the Fells), its mana value remains 4.
+202.3b The mana value of the back face of a nonmodal double-faced permanent or spell’s back face is calculated as though it had the mana cost of its front face. If a permanent or spell is a copy of the back face of a nonmodal double-faced object (even if the card representing that copy is itself a double-faced card), the mana value of the copy is 0.
+Example: Huntmaster of the Fells is a nonmodal double-faced card with mana cost {2}{R}{G}. Its mana value is 4. After it transforms to its other face (Ravager of the Fells), its mana value remains 4.
 Example: A Clone enters the battlefield as a copy of Ravager of the Fells. Its mana value is 0.
-Example: Insectile Aberration is the back face of a transforming double-faced card whose front face has mana cost {U}. It becomes a copy of Ravager of the Fells. Its mana value becomes 0.
+Example: Insectile Aberration is the back face of a nonmodal double-faced card whose front face has mana cost {U}. It becomes a copy of Ravager of the Fells. Its mana value becomes 0.
 
 202.3c The mana value of a melded permanent is calculated as though it had the combined mana cost of the front faces of each card that represents it. If a permanent is a copy of a melded permanent (even if that copy is represented by two other meld cards), the mana value of the copy is 0.
 
