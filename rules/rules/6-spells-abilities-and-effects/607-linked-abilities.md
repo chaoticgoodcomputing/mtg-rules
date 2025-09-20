@@ -2,7 +2,7 @@
 
 607.1a An ability printed on an object within another ability that grants that ability to that object is considered to be “printed on” that object for these purposes.
 
-607.1b An ability printed on either face of a transforming double-faced card (see rule 712) is considered to be “printed on” that object for these purposes, regardless of which face is up.
+607.1b An ability printed on either face of a nonmodal double-faced object (see rule 712) is considered to be “printed on” that object for these purposes, regardless of which face is up.
 
 607.1c An ability printed on an object that fulfills both criteria described in rule 607.1 is linked to itself.
 

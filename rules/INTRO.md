@@ -1,6 +1,6 @@
 ﻿Magic: The Gathering Comprehensive Rules
 
-These rules are effective as of July 25, 2025.
+These rules are effective as of September 19, 2025.
 
 Introduction
 
