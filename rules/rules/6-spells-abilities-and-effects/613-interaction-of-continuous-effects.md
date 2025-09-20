@@ -62,7 +62,7 @@ Example: Rune of Flight is an Aura that grants enchanted Equipment “Equipped c
 
 613.7f A permanent receives a new timestamp each time it turns face up or face down.
 
-613.7g A transforming double-faced permanent receives a new timestamp each time it transforms or converts.
+613.7g A double-faced permanent receives a new timestamp each time it transforms or converts.
 
 613.7h A face-up plane card, phenomenon card, or scheme card receives a timestamp at the time it’s turned face up.
 

@@ -18,7 +18,7 @@
 
 729.2h If a merged permanent contains a flip card (see rule 710), that component’s alternative characteristics are used instead of its normal characteristics if the merged permanent is flipped.
 
-729.2i A merged permanent is not a double-faced permanent even if it contains one or more double-faced components. If a merged permanent contains one or more transforming double-faced components (see rule 712), transforming that permanent causes each of those double-faced components to turn so that its other face is up.
+729.2i A merged permanent is not a double-faced permanent even if it contains one or more double-faced components. If a merged permanent contains one or more double-faced components that can transform (see rule 712), transforming or converting that permanent causes each of those double-faced components to turn so that its other face is up.
 
 729.2j A face-up merged permanent that contains a double-faced component can’t be turned face down.
 

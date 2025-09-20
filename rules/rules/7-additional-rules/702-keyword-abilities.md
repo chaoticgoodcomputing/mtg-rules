@@ -441,7 +441,7 @@ Example: You control a phased-out creature. You cast a spell that says “Destro
 
 702.41. Affinity
 
-702.41a Affinity is a static ability that functions while the spell with affinity is on the stack. “Affinity for [text]” means “This spell costs you {1} less to cast for each [text] you control.”
+702.41a Affinity is a static ability that functions while the spell with affinity is on the stack. “Affinity for [text]” means “This spell costs {1} less to cast for each [text] you control.”
 
 702.41b If a spell has multiple instances of affinity, each of them applies.
 
@@ -1189,15 +1189,15 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 
 702.145. Daybound and Nightbound
 
-702.145a Daybound and nightbound are found on opposite faces of some transforming double-faced cards (see rule 712, “Double-Faced Cards”).
+702.145a Daybound and nightbound are found on opposite faces of some double-faced cards (see rule 712, “Double-Faced Cards”).
 
-702.145b Daybound is found on the front faces of some transforming double-faced cards and represents three static abilities. “Daybound” means “If it is night and this permanent is represented by a transforming double-faced card, it enters transformed,” “As it becomes night, if this permanent is front face up, transform it,” and “This permanent can’t transform except due to its daybound ability.” See rule 730, “Day and Night.”
+702.145b Daybound is found on the front faces of some double-faced cards and represents three static abilities. “Daybound” means “If it is night and this permanent is represented by a double-faced card, it enters transformed,” “As it becomes night, if this permanent is front face up, transform it,” and “This permanent can’t transform except due to its daybound ability.” See rule 730, “Day and Night.”
 
 702.145c Any time a player controls a permanent that is front face up with daybound and it’s night, that player transforms that permanent. This happens immediately and isn’t a state-based action.
 
 702.145d Any time a player controls a permanent with daybound, if it’s neither day nor night, it becomes day.
 
-702.145e Nightbound is found on the back faces of some transforming double-faced cards and represents two static abilities. “Nightbound” means “As it becomes day, if this permanent is back face up, transform it” and “This permanent can’t transform except due to its nightbound ability.”
+702.145e Nightbound is found on the back faces of some double-faced cards and represents two static abilities. “Nightbound” means “As it becomes day, if this permanent is back face up, transform it” and “This permanent can’t transform except due to its nightbound ability.”
 
 702.145f Any time a player controls a permanent that is back face up with nightbound and it’s day, that player transforms that permanent. This happens immediately and isn’t a state-based action.
 
@@ -1205,9 +1205,9 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 
 702.146. Disturb
 
-702.146a Disturb is an ability found on the front face of some transforming double-faced cards (see rule 712, “Double-Faced Cards”). “Disturb [cost]” means “You may cast this card transformed from your graveyard by paying [cost] rather than its mana cost.” See rule 712.8c.
+702.146a Disturb is an ability found on the front face of some double-faced cards (see rule 712, “Double-Faced Cards”). “Disturb [cost]” means “You may cast this card transformed from your graveyard by paying [cost] rather than its mana cost.” See rule 712.8c.
 
-702.146b A resolving transforming double-faced spell that was cast using its disturb ability enters the battlefield with its back face up.
+702.146b A resolving double-faced spell that was cast using its disturb ability enters the battlefield with its back face up.
 
 702.147. Decayed
 
@@ -1438,7 +1438,7 @@ Example: If a creature with toxic 2 gains toxic 1 due to another effect, its tot
 
 702.176. Impending
 
-702.176a Impending is a keyword that represents four abilities. The first and second are static abilities that function while the spell with impending is on the stack. The third is a static ability that functions on the battlefield. The fourth is a triggered ability that functions on the battlefield. “Impending N—[cost]” means “You may choose to pay [cost] rather than pay this spell’s mana cost,” “If you chose to pay this spell’s impending cost, it enters with N time counters on it,” “As long as this permanent’s impending cost was paid and it has a time counter on it, it’s not a creature,” and “At the beginning of your end step, if this permanent’s impending cost was paid and it has a time counter on it, remove a time counter from it.” Casting a spell for its impending cost follows the rules for paying alternative costs in rules 601.2b and 601.2f–h.
+702.176a Impending is a keyword that represents four abilities. The first is a static ability that functions while the spell with impending is on the stack. The second is static ability that creates a replacement effect that may apply to the permanent with impending as it enters the battlefield from the stack. The third is a static ability that functions on the battlefield. The fourth is a triggered ability that functions on the battlefield. “Impending N—[cost]” means “You may choose to pay [cost] rather than pay this spell’s mana cost,” “If you chose to pay this permanent’s impending cost, it enters with N time counters on it,” “As long as this permanent’s impending cost was paid and it has a time counter on it, it’s not a creature,” and “At the beginning of your end step, if this permanent’s impending cost was paid and it has a time counter on it, remove a time counter from it.” Casting a spell for its impending cost follows the rules for paying alternative costs in rules 601.2b and 601.2f–h.
  
 702.177. Exhaust
 
@@ -1469,7 +1469,7 @@ Example: Elvish Refueler has an exhaust ability that costs mana and also has an 
 
 702.180. Harmonize
 
-702.180a Harmonize represents three static abilities: one that functions while the card is in a player’s graveyard and two that function while the spell with harmonize is on the stack. “Harmonize [cost]” means “You may cast this spell from your graveyard by paying [cost] and tapping up to one untapped creature you control rather than paying this spell’s mana cost,” “If you cast this spell using its harmonize ability, its total cost is reduced by an amount of generic mana equal to the tapped creature’s power,” and “If the harmonize cost was paid, exile this card instead of putting it anywhere else any time it would leave the stack.” Casting a spell using its harmonize ability follows the rules for paying alternative costs in rules 601.2b and 601.2f–h.
+702.180a Harmonize represents three static abilities: one that functions while the card is in a player’s graveyard and two that function while the spell with harmonize is on the stack. “Harmonize [cost]” means “You may cast this card from your graveyard by paying [cost] and tapping up to one untapped creature you control rather than paying this spell’s mana cost,” “If you cast this spell using its harmonize ability, its total cost is reduced by an amount of generic mana equal to the tapped creature’s power,” and “If the harmonize cost was paid, exile this card instead of putting it anywhere else any time it would leave the stack.” Casting a spell using its harmonize ability follows the rules for paying alternative costs in rules 601.2b and 601.2f–h.
 
 702.180b You choose which creature to tap as you choose to pay a spell’s harmonize cost (see rule 601.2b), and then tap that creature as you pay the total cost.
 
@@ -1501,3 +1501,21 @@ Example: Tapestry Warden has as ability that reads “Each creature you control 
 702.185b Some effects refer to “warped” cards in exile. A warped card in exile is one that was exiled by the delayed triggered ability created by a warp ability.
 
 702.185c Some effects refer to whether “a spell was warped this turn.” This means that a spell was cast for its warp cost this turn.
+
+702.186. ∞ (Infinity)
+
+702.186a ∞ (the mathematical symbol for infinity) is a keyword found on Infinity cards. “∞” is followed by ability text. Together, they represent a static ability.
+
+702.186b “∞ — [Ability]” means “As long as this permanent is harnessed, it has [ability].” See rule 701.64, “Harness.”
+
+702.187. Mayhem
+
+702.187a Mayhem is a static ability that functions while the card with mayhem is in a player’s graveyard.
+
+702.187b “Mayhem [cost]” means “As long as you discarded this card this turn, you may cast it from your graveyard by paying [cost] rather than paying its mana cost.” Casting a spell using its mayhem ability follows the rules for paying alternative costs in rules 601.2b and 601.2f–h.
+
+702.187c “Mayhem” without a cost means “You may play this card from your graveyard if you discarded it this turn.”
+
+702.188. Web-slinging
+
+702.188a Web-slinging is a static ability that functions while the spell with web-slinging is on the stack. “Web-slinging [cost]” means “You may cast this spell by paying [cost] and returning a tapped creature you control to its owner’s hand rather than paying its mana cost.” Casting a spell using its web-slinging ability follows the rules for paying alternative costs in rules 601.2b and 601.2f–h.

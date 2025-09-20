@@ -908,6 +908,12 @@ A characteristic that only vanguards have. See rule 211, “Hand Modifier.”
 Harmonize
 A keyword ability that lets a player cast a card from their graveyard for a specific cost and lets them tap a creature they control to reduce that cost. See rule 702.180, “Harmonize.”
 
+Harness
+A keyword action that grants a permanent the harnessed designation. See rule 701.64, “Harness.”
+
+Harnessed
+A designation permanents can have. Infinity permanents have their ∞ abilities as long as they are harnessed. See rule 701.64, “Harness,” and rule 702.186, “∞ (Infinity).”
+
 Haste
 A keyword ability that lets a creature ignore the “summoning sickness” rule. See rule 702.10, “Haste,” and rule 302.6.
 
@@ -981,7 +987,7 @@ Incubate
 A keyword action that creates an Incubator token with a specified number of +1/+1 counters on it. See rule 701.53, “Incubate.”
 
 Incubator Token
-An Incubator token is a transforming double-faced token. Its front face is a colorless Incubator artifact with “{2}: Transform this token.” Its back face is a 0/0 colorless Phyrexian artifact creature named “Phyrexian Token.” For more information about predefined tokens, see rule 111.10.
+An Incubator token is a double-faced token. Its front face is a colorless Incubator artifact with “{2}: Transform this token.” Its back face is a 0/0 colorless Phyrexian artifact creature named “Phyrexian Token.” For more information about predefined tokens, see rule 111.10.
 
 Independent
 See Dependency.
@@ -991,6 +997,10 @@ A keyword ability that precludes a permanent from being destroyed. See rule 702.
 
 Infect
 A keyword ability that affects how an object deals damage to creatures and players. See rule 702.90, “Infect.”
+
+Infinity
+1. An artifact subtype.
+2. ∞ is a keyword found on Infinity cards that grants an ability as long as that permanent is harnessed. See rule 702.186, “∞ (Infinity),” and rule 701.64, “Harness.”
 
 Ingest
 A keyword ability that can exile the top card of a player’s library. See rule 702.115, “Ingest.”
@@ -1203,6 +1213,9 @@ Max Speed
 Maximum Hand Size
 The number of cards in hand a player must discard down to during their cleanup step. See rule 402.2 and 514.1.
 
+Mayhem
+A keyword ability that allows you to play cards you discarded this turn from your graveyard for an alternative cost. See rule 702.187, “Mayhem.”
+
 Megamorph
 A variant of the morph ability that puts a +1/+1 counter on the creature as it turns face up. See rule 702.37, “Morph.”
 
@@ -1240,7 +1253,7 @@ Modal, Mode
 A spell or ability is “modal” if it has two or more options in a bulleted list preceded by instructions for a player to choose a number of those options, such as “Choose one —.” See rule 700.2.
 
 Modal Double-Faced Cards
-One of two kinds of double-faced cards. Modal double-faced cards can be played with either of their two faces up and can’t transform. See rule 712, “Double-Faced Cards.”
+One kind of double-faced card. Modal double-faced cards can be played with either of their two faces up. See rule 712, “Double-Faced Cards.”
 
 Modified
 A modified creature is a creature that has a counter on it, is equipped, or is enchanted by an Aura its controller also controls. See rule 700.9.
@@ -1320,6 +1333,9 @@ A keyword ability that lets a creature suddenly enter combat. See rule 702.49, �
 
 Nonbasic Land
 Any land that doesn’t have the supertype “basic.” See rule 205.4, “Supertypes.”
+
+Nonmodal Double-Faced Card
+One kind of double-faced card. Nonmodal double-faced cards default to being cast with their front faces up but can transform to their back faces in some way. See rule 712, “Double-Faced Cards.”
 
 Nontraditional Magic Card
 A card not included in players’ decks. It may be oversized or have a card back other than a “Deckmaster” back. See rule 108.2.
@@ -2002,8 +2018,8 @@ A keyword ability that lets a player search their library for a replacement crea
 Transform
 To turn a double-faced card so its other face is up. See rule 701.27, “Transform.”
 
-Transforming Double-Faced Cards
-One of two kinds of double-faced cards. Transforming double-faced cards default to their front faces but can transform to their back faces in some way. See rule 712, “Double-Faced Cards.”
+Transforming Double-Faced Cards (Obsolete)
+An older name for nonmodal double-faced cards. See rule 712, “Double-Faced Cards.” 
 
 Transmute
 A keyword ability that lets a player search their library for a replacement card. See rule 702.53, “Transmute.”
@@ -2153,6 +2169,9 @@ A triggered ability that can counter spells or abilities that target the permane
 
 Warp
 A keyword ability found on permanent cards that allows them to be cast for an alternative cost. See rule 702.185, “Warp.”
+
+Web-slinging
+A keyword ability that allows spells to be cast for an alternative cost by returning a tapped creature you control to its owner’s hand. See rule 702.188, “Web-slinging.”
 
 Win the Game
 There are several ways to win the game. See rule 104, “Ending the Game,” and rules 810.8 (for additional rules for Two-Headed Giant games) and rule 809.5 (for additional rules for Emperor games).
