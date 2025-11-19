@@ -394,7 +394,7 @@ Example: A player owns and controls Midnight Scavengers and a token that’s a c
 
 701.44. Explore
 
-701.44a Certain abilities instruct a permanent to explore. To do so, that permanent’s controller reveals the top card of their library. If a land card is revealed this way, that player puts that card into their hand. Otherwise, that player puts a +1/+1 counter on the exploring permanent and may put the revealed card into their graveyard.
+701.44a Certain spells and abilities instruct a permanent to explore. To do so, that permanent’s controller reveals the top card of their library. If a land card is revealed this way, that player puts that card into their hand. Otherwise, that player puts a +1/+1 counter on the exploring permanent and may put the revealed card into their graveyard.
 
 701.44b A permanent “explores” after the process described in rule 701.44a is complete, even if some or all of those actions were impossible.
 
@@ -436,7 +436,7 @@ Example: A player owns and controls Midnight Scavengers and a token that’s a c
 
 701.50. Connive
 
-701.50a Certain abilities instruct a permanent to connive. To do so, that permanent’s controller draws a card, then discards a card. If a nonland card is discarded this way, that player puts a +1/+1 counter on the conniving permanent.
+701.50a Certain spells and abilities instruct a permanent to connive. To do so, that permanent’s controller draws a card, then discards a card. If a nonland card is discarded this way, that player puts a +1/+1 counter on the conniving permanent.
 
 701.50b A permanent “connives” after the process described in rule 701.50a is complete, even if some or all of those actions were impossible.
 
@@ -555,3 +555,25 @@ Example: A player owns and controls Midnight Scavengers and a token that’s a c
 701.64a “Harness [this permanent]” means “If this permanent isn’t harnessed, it becomes harnessed.”
 
 701.64b Harnessed is a designation that has no rules meaning other than to act as a marker that other spells and abilities can identify. Only permanents can be or become harnessed. Once a permanent becomes harnessed, it stays harnessed until it leaves the battlefield. Harnessed is neither an ability nor part of the permanent’s copiable values.
+
+701.65. Airbend
+
+701.65a Certain spells and abilities instruct a player to airbend one or more permanents and/or spells. To do so, that player exiles those objects. For each card exiled this way, for as long as it remains exiled, its owner may cast it by paying {2} rather than paying its mana cost.
+
+701.65b An ability that triggers whenever a player airbends triggers when that player exiles one or more objects as a result of an instruction to airbend.
+
+701.66. Earthbend
+
+701.66a “Earthbend N” means “Target land you control becomes a 0/0 land creature with haste in addition to its other types. Put N +1/+1 counters on it. When that land dies or is put into exile, return it to the battlefield tapped under your control.”
+
+701.66b An ability that triggers whenever a player earthbends triggers when the delayed triggered ability described in rule 701.66a is created.
+
+701.67. Waterbend
+
+701.67a “Waterbend [cost]” means “Pay [cost]. For each generic mana in that cost, you may tap an untapped artifact or creature you control rather than pay that mana.”
+
+701.67b If a waterbend cost is part of the total cost to cast a spell or activate an ability (usually because the waterbend cost itself is an additional cost), the alternate method to pay for mana described in rule 701.67a may be used only to pay for the amount of generic mana in the waterbend cost, even if the total cost to cast that spell or activate that ability includes other generic mana components.
+
+Example: Spirit Water Revival is a spell that costs {1}{U}{U} and says, in part, “As an additional cost to cast this spell, waterbend {6}.” As you cast it, you may tap up to six artifacts and/or creatures you control to pay the for the {6} in its waterbend cost, but you can’t tap any artifacts or creatures to pay for any part of the {1}{U}{U} mana cost.
+
+701.67c An ability that triggers whenever a player waterbends triggers whenever that player pays a waterbend cost, regardless of how they paid that cost.

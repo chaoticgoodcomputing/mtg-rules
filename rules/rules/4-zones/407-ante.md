@@ -4,4 +4,4 @@
 
 407.3. A few cards have the text “Remove this card from your deck before playing if you’re not playing for ante.” These are the only cards that can add or remove cards from the ante zone or change a card’s owner. When not playing for ante, players can’t include these cards in their decks or sideboards, and these cards can’t be brought into the game from outside the game.
 
-407.4. To ante an object is to put that object into the ante zone from whichever zone it’s currently in. The owner of an object is the only person who can ante that object.
+407.4. To ante an object is to put that object into the ante zone from whichever zone it’s currently in. The owner of an object is the only player who can ante that object.
