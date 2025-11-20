@@ -36,4 +36,4 @@
 
 703.4p Immediately after the active player has discarded cards (if necessary) during the cleanup step, all damage is removed from permanents and all “until end of turn” and “this turn” effects end. These actions happen simultaneously. See rule 514.2.
 
-703.4q When each step or phase ends, any unused mana left in a player’s mana pool empties. See rule 500.4.
+703.4q As each step or phase ends, any unspent mana left in a player’s mana pool empties. See rule 500.5.

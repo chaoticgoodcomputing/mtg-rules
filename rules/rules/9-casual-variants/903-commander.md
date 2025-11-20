@@ -18,7 +18,7 @@ Example: A commander that’s been turned face down (due to Ixidron’s effect, 
 903.4. The Commander variant uses color identity to determine what cards can be in a deck with a certain commander. The color identity of a card is the color or colors of any mana symbols in that card’s mana cost or rules text, plus any colors defined by its characteristic-defining abilities (see rule 604.3) or color indicator (see rule 204).
 Example: Bosh, Iron Golem is a legendary artifact creature with mana cost {8} and the ability “{3}{R}, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact’s mana value to any target.” Bosh’s color identity is red.
 
-903.4a Color identity is established before the game begins.
+903.4a Color identity is established before the game begins. If a rule or effect refers to the color identity of an object in the game represented by a card, it uses the color identity established for that card as the game began.
 
 903.4b If a commander has a static ability that causes a player to choose its color before the game begins, that choice applies during deck construction and throughout the game, even as the commander changes zones. That choice affects the commander’s color identity. The player reveals that choice as they put their commander into the command zone before the game begins. See rules 103.2c and 607.2p.
 
