@@ -18,7 +18,7 @@ Example: Concerted Effort is an enchantment that reads “At the beginning of ea
 
 702.2b A creature with toughness greater than 0 that’s been dealt damage by a source with deathtouch since the last time state-based actions were checked is destroyed as a state-based action. See rule 704.
 
-702.2c Any nonzero amount of combat damage assigned to a creature by a source with deathtouch is considered to be lethal damage for the purposes of determining if a proposed combat damage assignment is valid, regardless of that creature’s toughness. See rules 510.1c–d.
+702.2c Any nonzero amount of combat damage assigned to a creature by a source with deathtouch is considered to be lethal damage for the purposes of determining if excess damage is being dealt.
 
 702.2d The deathtouch rules function no matter what zone an object with deathtouch deals damage from.
 
@@ -1021,7 +1021,7 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 
 702.124. Partner
 
-702.124a Partner abilities are keyword abilities that modify the rules for deck construction in the Commander variant (see rule 903), and they function before the game begins. Each partner ability allows you to designate two legendary cards as your commander rather than one. Each partner ability has its own requirements for those two commanders. The partner abilities are: partner, partner with [name], friends forever, choose a Background, and Doctor’s companion.
+702.124a Partner abilities are keyword abilities that modify the rules for deck construction in the Commander variant (see rule 903), and they function before the game begins. Each partner ability allows you to designate two legendary cards as your commander rather than one. Each partner ability has its own requirements for those two commanders. The partner abilities are: partner, partner—[text], partner with [name], friends forever, choose a Background, and Doctor’s companion.
 
 702.124b Your deck must contain exactly 100 cards, including its two commanders. Both commanders begin the game in the command zone.
 
@@ -1035,17 +1035,19 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 
 702.124g If a legendary card has more than one partner ability, you may choose which one to use when designating your commander, but you can’t use both. Notably, no partner ability or combination of partner abilities can ever let a player have more than two commanders.
 
-702.124h “Partner” means “You may designate two legendary creature cards as your commander rather than one if each of them has partner.”
+702.124h “Partner” means “You may designate two legendary cards as your commander rather than one if each of them has partner.”
 
-702.124i “Partner with [name]” represents two abilities. It means “You may designate two legendary creature cards as your commander rather than one if each has a ‘partner with [name]’ ability with the other’s name” and “When this permanent enters, target player may search their library for a card named [name], reveal it, put it into their hand, then shuffle.”
+702.124i “Partner—[text]” means “You may designate two legendary cards as your commander rather than one if each of them has the same ‘partner—[text]’ ability.” The “partner—[text]” abilities are “partner—Father & son” and “partner—Survivors.”
 
-702.124j “Friends forever” means “You may designate two legendary creature cards as your commander rather than one if each of them has friends forever.”
+702.124j “Partner with [name]” represents two abilities. It means “You may designate two legendary cards as your commander rather than one if each has a ‘partner with [name]’ ability with the other’s name” and “When this permanent enters, target player may search their library for a card named [name], reveal it, put it into their hand, then shuffle.”
 
-702.124k “Choose a Background” means “You may designate two cards as your commander rather than one if one of them is this card and the other is a legendary Background enchantment card.” You can’t designate two cards as your commander if one has a “choose a Background” ability and the other is not a legendary Background enchantment card, and legendary Background enchantment cards can’t be your commander unless you have also designated a commander with “choose a Background.”
+702.124k “Friends forever” means “You may designate two legendary creature cards as your commander rather than one if each of them has friends forever.”
 
-702.124m “Doctor’s companion” means “You may designate two legendary creature cards as your commander rather than one if one of them is this card and the other is a legendary Time Lord Doctor creature card that has no other creature types.”
+702.124m “Choose a Background” means “You may designate two cards as your commander rather than one if one of them is this card and the other is a legendary Background enchantment card.” You can’t designate two cards as your commander if one has a “choose a Background” ability and the other is not a legendary Background enchantment card, and legendary Background enchantment cards can’t be your commander unless you have also designated a commander with “choose a Background.”
 
-702.124n If an effect refers to a partner ability by name, it means only that partner ability and not any others. If an effect refers to the partner ability or cards with partner and doesn’t mention a specific variant of the partner ability by name, it is referring only to partner, partner with [name], or cards with either of those abilities, and does not refer to any other partner variant.
+702.124n “Doctor’s companion” means “You may designate two legendary creature cards as your commander rather than one if one of them is this card and the other is a legendary Time Lord Doctor creature card that has no other creature types.”
+
+702.124p If an effect refers to a partner ability by name, it means only that partner ability and not any others. If an effect refers to the partner ability or cards with partner and doesn’t mention a specific variant of the partner ability by name, it is referring only to partner, partner—[text], partner with [name], or cards with any of those abilities, and it does not refer to any other partner variant.
 
 702.125. Undaunted
 
@@ -1519,3 +1521,9 @@ Example: Tapestry Warden has as ability that reads “Each creature you control 
 702.188. Web-slinging
 
 702.188a Web-slinging is a static ability that functions while the spell with web-slinging is on the stack. “Web-slinging [cost]” means “You may cast this spell by paying [cost] and returning a tapped creature you control to its owner’s hand rather than paying its mana cost.” Casting a spell using its web-slinging ability follows the rules for paying alternative costs in rules 601.2b and 601.2f–h.
+
+702.189. Firebending
+
+702.189a Firebending is a triggered ability. “Firebending N” means “Whenever this creature attacks, add N {R}. Until end of combat, you don’t lose this mana as steps and phases end.”
+
+702.189b An ability that triggers whenever a player firebends triggers whenever a firebending ability they control resolves.
