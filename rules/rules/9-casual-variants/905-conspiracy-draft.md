@@ -14,7 +14,7 @@
 
 905.2b Some cards instruct players to reveal them as they’re drafted and then note some information, such as a number or color. This information can be referred to by other abilities during the game. Any player can look at this information at any time during the draft or game. After the information is noted, the drafted card is turned face down and added to the player’s drafted cards pile.
 
-905.2c Some cards instruct players to draft them face up. Each such card remains face up until the draft is complete, an effect instructs the person who drafted it to turn it face down, or the card leaves that player’s drafted cards pile. While the card is face up, all players may look at it.
+905.2c Some cards instruct players to draft them face up. Each such card remains face up until the draft is complete, an effect instructs the player who drafted it to turn it face down, or the card leaves that player’s drafted cards pile. While the card is face up, all players may look at it.
 
 905.3. A Conspiracy Draft game is a multiplayer game. The default multiplayer setup is the Free-for-All variant with the attack multiple players option and without the limited range of influence option. See rule 806, “Free-for-All Variant.”
 
