@@ -53,6 +53,9 @@ A keyword ability that leaves behind Spirit creature tokens when certain creatur
 Aftermath
 A keyword ability that lets a player cast one half of a split card only from their graveyard. See rule 702.127, “Aftermath.”
 
+Airbend
+A keyword action that exiles one or more permanents and/or spells. The owner of each card exiled with airbend may cast it from exile by paying {2} rather than paying its mana cost. See rule 701.65, “Airbend.”
+
 Alternating Teams Variant
 A multiplayer variant played among two or more teams of equal size. See rule 811, “Alternating Teams Variant.”
 
@@ -198,7 +201,7 @@ Battlefield
 A zone. The battlefield is the zone in which permanents exist. It used to be known as the “in-play” zone. See rule 403, “Battlefield.”
 
 Becomes
-A word used in some trigger events to indicate a change in status or characteristics. See rule 603.2f.
+A word used in some trigger events to indicate a change in status or characteristics. See rule 603.2e.
 
 Beginning of Combat Step
 Part of the turn. This step is the first step of the combat phase. See rule 507, “Beginning of Combat Step.”
@@ -605,6 +608,9 @@ A card type found on nontraditional Magic cards. A dungeon card is not a permane
 During (Obsolete)
 Some older cards used the phrase “during [phase], [action].” These abilities were called “phase abilities.” In general, cards that were printed with phase abilities have received errata in the Oracle card reference so they have abilities that trigger at the beginning of a step or phase. “During” still appears in current card text, but only in its normal English sense and not as game terminology.
 
+Earthbend
+A keyword action that causes a land to become a 0/0 creature with haste in addition to its other types and puts a number of +1/+1 counters on it. When that land dies or is put into exile, return it to the battlefield tapped under your control. See 701.66, “Earthbend.”
+
 Echo
 A keyword ability that imposes a cost to keep a permanent on the battlefield. See rule 702.30, “Echo.”
 
@@ -777,6 +783,9 @@ When two creatures fight, each deals damage equal to its power to the other. See
 
 Finality Counter
 A counter that exiles the permanent it is on if that permanent would go to the graveyard from the battlefield. See rule 122.1h.
+
+Firebending
+A keyword ability that adds red mana until end of combat whenever a creature with that ability attacks. See rule 702.189, “Firebending.”
 
 First Strike
 A keyword ability that lets a creature deal its combat damage before other creatures. See rule 702.7, “First Strike.”
@@ -1388,8 +1397,8 @@ A term that describes a creature that’s been affected by a soulbond ability. S
 Paris Mulligan
 Informal term for a previous system of taking a mulligan. Using the Paris mulligan, a player who took a mulligan shuffled their hand into their library and drew one fewer card. For current mulligan rules, see rule 103.5.
 
-Partner, “Partner with [name]”
-A keyword ability that lets two legendary creatures or planeswalkers be your commander in the Commander variant rather than one. “Partner with [name]” is a specialized version of the ability that works even outside of the Commander variant to help two cards reach the battlefield together. See rule 702.124, “Partner,” and rule 903, “Commander.”
+Partner, “Partner—[text],” “Partner with [name]”
+A keyword ability that lets two legendary cards be your commander in the Commander variant rather than one. “Partner with [name]” is a specialized version of the ability that works even outside of the Commander variant to help two cards reach the battlefield together. See rule 702.124, “Partner,” and rule 903, “Commander.”
 
 Party
 Some cards refer to the number of creatures in your party. A player’s party includes up to one each of Cleric, Rogue, Warrior, and Wizard. See rule 700.8.
@@ -2169,6 +2178,9 @@ A triggered ability that can counter spells or abilities that target the permane
 
 Warp
 A keyword ability found on permanent cards that allows them to be cast for an alternative cost. See rule 702.185, “Warp.”
+
+Waterbend
+A keyword action. “Waterbend [cost]” means to pay that cost and, for each {1} in that cost, you may tap an untapped artifact or creature you control rather than pay mana. See rule 701.67, “Waterbend.”
 
 Web-slinging
 A keyword ability that allows spells to be cast for an alternative cost by returning a tapped creature you control to its owner’s hand. See rule 702.188, “Web-slinging.”
