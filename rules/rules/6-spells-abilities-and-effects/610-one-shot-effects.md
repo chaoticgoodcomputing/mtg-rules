@@ -22,3 +22,5 @@ Example: Two Banisher Priests have each exiled a card. All creatures are destroy
 610.4c If a resolving triggered ability creates the initial one-shot effect that causes the permanent to phase out, and the specified event has already occurred before that one-shot effect would occur but after that ability triggered, the permanent doesn’t phase out.
 
 610.4d If multiple one-shot effects are created this way immediately after one or more simultaneous events, those one-shot effects are also simultaneous.
+
+610.5. Some static abilities create one-shot effects that cause spells a player casts to gain an ability as that player casts them. These effects begin to apply to appropriate spells at the time the player puts such a spell on the stack. See rule 601.2a.
