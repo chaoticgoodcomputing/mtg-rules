@@ -215,6 +215,9 @@ A keyword action that allows a player to choose a permanent they control of a pa
 Bestow
 A keyword ability that lets a creature card be cast as an Aura. See rule 702.103, “Bestow.”
 
+Blight
+A keyword action. To blight N means to put N -1/-1 counters on a creature you control. See rule 701.68, “Blight.”
+
 Blitz
 A keyword ability found on creature cards that allows them to be cast for an alternative cost. See rule 702.152, “Blitz.”
 
@@ -858,9 +861,6 @@ A multiplayer variant in which a group of players compete as individuals against
 
 Freerunning
 A keyword ability that allows certain spells to be cast for an alternative cost. See rule 702.173, “Freerunning.”
-
-Friends Forever
-A variant of the partner ability that lets two legendary creature cardss be your commander in the Commander variant rather than one if both have the “friends forever” ability. See rule 702.124, “Partner,” and rule 903, “Commander.”
 
 Full Party
 A player has a full party if the number of creatures in their party is four. See rule 700.8.
