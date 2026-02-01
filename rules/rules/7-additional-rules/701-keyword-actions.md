@@ -577,3 +577,13 @@ Example: A player owns and controls Midnight Scavengers and a token that’s a c
 Example: Spirit Water Revival is a spell that costs {1}{U}{U} and says, in part, “As an additional cost to cast this spell, waterbend {6}.” As you cast it, you may tap up to six artifacts and/or creatures you control to pay the for the {6} in its waterbend cost, but you can’t tap any artifacts or creatures to pay for any part of the {1}{U}{U} mana cost.
 
 701.67c An ability that triggers whenever a player waterbends triggers whenever that player pays a waterbend cost, regardless of how they paid that cost.
+
+701.68. Blight
+
+701.68a To “blight N” means to put N -1/-1 counters on a creature you control.
+
+701.68b If a player is given the choice to blight but is unable to put N -1/-1 counters on a creature they control (usually because they control no creatures), they can’t choose to blight.
+
+701.68c Some spells and abilities that instruct a player to blight refer to the “blighted creature.” This phrase refers to the object that the player who was instructed to blight chose to put -1/-1 counters on when blighting.
+
+701.68d An ability that triggers whenever a player blights triggers after the process described in rule 701.68a is complete, regardless of what events actually occurred.
