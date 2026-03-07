@@ -508,7 +508,7 @@ Example: Glacial Ray is a red card with splice onto Arcane that reads, “Glacia
 
 702.49b The card with ninjutsu remains revealed from the time the ability is announced until the ability leaves the stack.
 
-702.49c A ninjutsu ability may be activated only while a creature on the battlefield is unblocked (see rule 509.1h). The creature with ninjutsu is put onto the battlefield unblocked. It will be attacking the same player, planeswalker, or battle as the creature that was returned to its owner’s hand.
+702.49c The creature put onto the battlefield with the ninjutsu ability enters attacking the same player, planeswalker, or battle as the creature that was returned to its owner’s hand.
 
 702.49d Commander ninjutsu is a variant of the ninjutsu ability that also functions while the card with commander ninjutsu is in the command zone. “Commander ninjutsu [cost]” means “[Cost], Reveal this card from your hand or from the command zone, Return an unblocked attacking creature you control to its owner’s hand: Put this card onto the battlefield tapped and attacking.”
 
@@ -1037,7 +1037,7 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 
 702.124h “Partner” means “You may designate two legendary cards as your commander rather than one if each of them has partner.”
 
-702.124i “Partner—[text]” means “You may designate two legendary cards as your commander rather than one if each of them has the same ‘partner—[text]’ ability.” The “partner—[text]” abilities are “partner—Father & son,” “partner—Friends forever,” and “partner—Survivors.”
+702.124i “Partner—[text]” means “You may designate two legendary cards as your commander rather than one if each of them has the same ‘partner—[text]’ ability.” The “partner—[text]” abilities are “partner—Character select,” “partner—Father & son,” “partner—Friends forever,” and “partner—Survivors.”
 
 702.124j “Partner with [name]” represents two abilities. It means “You may designate two legendary cards as your commander rather than one if each has a ‘partner with [name]’ ability with the other’s name” and “When this permanent enters, target player may search their library for a card named [name], reveal it, put it into their hand, then shuffle.”
 
@@ -1525,3 +1525,9 @@ Example: Tapestry Warden has as ability that reads “Each creature you control 
 702.189a Firebending is a triggered ability. “Firebending N” means “Whenever this creature attacks, add N {R}. Until end of combat, you don’t lose this mana as steps and phases end.”
 
 702.189b An ability that triggers whenever a player firebends triggers whenever a firebending ability they control resolves.
+
+702.190. Sneak
+
+702.190a Sneak is a keyword that represents a static ability that functions while the spell with sneak is on the stack. “Sneak [cost]” means “Any time you could cast an instant during your declare blockers step, you may choose to pay [cost] and return an unblocked creature you control to its owner’s hand rather than pay this spell’s mana cost.”
+
+702.190b A permanent spell cast using sneak enters the battlefield tapped and attacking (see rule 506.3a). It will be attacking the same player, planeswalker, or battle as the creature that was returned to its owner’s hand to pay the sneak cost of the spell that became that permanent.
