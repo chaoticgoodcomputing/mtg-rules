@@ -14,11 +14,13 @@
 
 506.3c If an effect would put a creature onto the battlefield attacking either a player not in the game or a permanent that’s no longer on the battlefield or isn’t either a planeswalker or a battle, that creature does enter the battlefield, but it’s never considered to be an attacking creature. See rule 508.4a.
 
-506.3d If an effect would put a creature onto the battlefield blocking but the creature it would block isn’t attacking the entering creature’s controller, a planeswalker that player controls, or a battle that player protects, that creature does enter the battlefield, but it’s never considered to be a blocking creature.
+506.3d If an effect puts a creature onto the battlefield attacking during the declare blockers step, combat damage step, or end of combat step, that creature enters the battlefield unblocked. See rule 508.4d.
 
-506.3e If an effect would put a creature that’s also a battle onto the battlefield attacking or blocking, that permanent enters the battlefield but it’s never considered to be an attacking or blocking creature.
+506.3e If an effect would put a creature onto the battlefield blocking but the creature it would block isn’t attacking the entering creature’s controller, a planeswalker that player controls, or a battle that player protects, that creature does enter the battlefield, but it’s never considered to be a blocking creature.
 
-506.3f If a resolving spell or ability would cause a battle to become an attacking or blocking creature, that part of the effect does nothing.
+506.3f If an effect would put a creature that’s also a battle onto the battlefield attacking or blocking, that permanent enters the battlefield but it’s never considered to be an attacking or blocking creature.
+
+506.3g If a resolving spell or ability would cause a battle to become an attacking or blocking creature, that part of the effect does nothing.
 
 506.4. A permanent is removed from combat if it leaves the battlefield, if its controller changes, if it phases out, if an effect specifically removes it from combat, if it’s a planeswalker that’s being attacked and stops being a planeswalker, if it’s a battle that’s being attacked and stops being a battle, or if it’s an attacking or blocking creature that regenerates (see rule 701.19), stops being a creature, or becomes a battle. A creature that’s removed from combat stops being an attacking, blocking, blocked, and/or unblocked creature. A planeswalker or battle that’s removed from combat stops being attacked.
 
