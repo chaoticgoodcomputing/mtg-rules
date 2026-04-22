@@ -16,8 +16,10 @@
 
 714.3. Sagas use lore counters to track their progress.
 
-714.3a As a Saga without the read ahead ability enters the battlefield, its controller puts a lore counter on it. As a Saga with the read ahead ability enters the battlefield, its controller chooses a number from one to that Saga’s final chapter number. That Saga enters the battlefield with the chosen number of lore counters on it. (See rule 702.155, “Read Ahead.”)
+714.3a Each Saga without read ahead has the intrinsic ability “This Saga enters with a lore counter on it.” This ability creates a replacement effect (see rule 614.1c).
 
-714.3b As a player’s precombat main phase begins, that player puts a lore counter on each Saga they control with one or more chapter abilities. This turn-based action doesn’t use the stack.
+714.3b Each Saga with read ahead has the intrinsic abilities “As this Saga enters, choose a number between one and this Saga’s final chapter number” and “This Saga enters with the chosen number of lore counters on it.” (See rule 702.155, “Read Ahead.”) These abilities create replacement effects (see rule 614.1c).
+
+714.3c As a player’s precombat main phase begins, that player puts a lore counter on each Saga they control with one or more chapter abilities. This turn-based action doesn’t use the stack.
 
 714.4. If the number of lore counters on a Saga permanent with one or more chapter abilities is greater than or equal to its final chapter number, and it isn’t the source of a chapter ability that has triggered but not yet left the stack, that Saga’s controller sacrifices it. This state-based action doesn’t use the stack.
