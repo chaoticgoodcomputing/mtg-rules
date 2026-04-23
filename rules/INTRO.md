@@ -1,6 +1,6 @@
 ﻿Magic: The Gathering Comprehensive Rules
 
-These rules are effective as of February 27, 2026.
+These rules are effective as of April 17, 2026.
 
 Introduction
 
