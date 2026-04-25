@@ -46,7 +46,7 @@ Example: Wall of Tears says “Whenever this creature blocks a creature, return 
 
 608.3c If the object that’s resolving is an Aura spell, it becomes a permanent and is put onto the battlefield under the control of the spell’s controller attached to the player or object it was targeting.
 
-608.3d If the object that’s resolving is a mutating creature spell, the object representing that spell merges with the permanent it is targeting (see rule 729, “Merging with Permanents”).
+608.3d If the object that’s resolving is a mutating creature spell, the object representing that spell merges with the permanent it is targeting (see rule 730, “Merging with Permanents”).
 
 608.3e If a permanent spell resolves but its controller can’t put it onto the battlefield, that player puts it into its owner’s graveyard.
 Example: Worms of the Earth has the ability “Lands can’t enter the battlefield.” Clone says “You may have this creature enter as a copy of any creature on the battlefield.” If a player casts Clone and chooses to copy Dryad Arbor (a land creature) while Worms of the Earth is on the battlefield, Clone can’t enter the battlefield from the stack. It’s put into its owner’s graveyard.
