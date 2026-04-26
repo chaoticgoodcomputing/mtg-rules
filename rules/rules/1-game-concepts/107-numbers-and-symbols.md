@@ -21,7 +21,7 @@ Example: Chameleon Colossus is a 4/4 creature with the ability “{2}{G}{G}: Thi
 
 107.3d If a cost associated with a special action, such as a suspend cost or a morph cost, has an {X} or an X in it, the value of X is chosen by the player taking the special action immediately before they pay that cost.
 
-107.3e If a spell or ability refers to the {X} or X in the mana cost, alternative cost, additional cost, or activation cost of another object, any X in that spell or ability’s text uses the value of X chosen or defined for the other object.
+107.3e If a spell or ability refers to the {X} or X in the mana cost, alternative cost, additional cost, or activation cost of another object, any X in that spell or ability’s text uses the value of X used by the other object.
 
 107.3f Sometimes X appears in the text of a spell or ability but not in a mana cost, alternative cost, additional cost, or activation cost. If the value of X isn’t defined, the controller of the spell or ability chooses the value of X at the appropriate time (either as it’s put on the stack or as it resolves).
 
