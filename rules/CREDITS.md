@@ -17,7 +17,7 @@ Thanks to all our project team members and the many others too numerous to menti
 
 
 
-These rules are effective as of February 27, 2026.
+These rules are effective as of April 17, 2026.
 
 Published by Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. Wizards of the Coast, Magic: The Gathering, Magic, their respective logos, Mirrodin, Kamigawa, Lorwyn, Zendikar, Innistrad, Ravnica, Khans of Tarkir, Magic Origins, Magic: The Gathering—Conspiracy, Ixalan, Unfinity, Dominaria, Ikoria, Kaldheim, Baldur’s Gate, The Brothers’ War, and Planeswalker Decks are trademarks of Wizards of the Coast LLC in the USA and other countries. ©2025 Wizards. U.S. Pat. No. RE 37,957.
 
@@ -34,7 +34,3 @@ Moogle; Qu; Fang, Fearless l’Cie; Vanille, Cheerful l’Cie; and Ragnarok, Div
 © 2025 Viacom International Inc. All Rights Reserved. Nickelodeon, Avatar: The Last Airbender and all related titles, logos and characters are trademarks of Viacom International Inc.
 
 © 2026 Viacom International Inc. All Rights Reserved. Nickelodeon, Teenage Mutant Ninja Turtles and all related titles, logos and characters are trademarks of Viacom International Inc.
-
-
-
-
