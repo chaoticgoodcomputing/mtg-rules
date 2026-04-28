@@ -16,7 +16,7 @@
 
 613.2. Within layer 1, apply effects in a series of sublayers in the order described below. Within each sublayer, apply effects in timestamp order (see rule 613.7). Note that dependency may alter the order in which effects are applied within a sublayer. (See rule 613.8.)
 
-613.2a Layer 1a: Copiable effects are applied. This includes copy effects (see rule 707, “Copying Objects”) and changes to an object’s characteristics determined by merging an object with a permanent (see rule 729, “Merging with Permanents”). “As . . . enters” and “as . . . is turned face up” abilities generate copiable effects if they set power and toughness, even if they also define other characteristics.
+613.2a Layer 1a: Copiable effects are applied. This includes copy effects (see rule 707, “Copying Objects”) and changes to an object’s characteristics determined by merging an object with a permanent (see rule 730, “Merging with Permanents”). “As . . . enters” and “as . . . is turned face up” abilities generate copiable effects if they set power and toughness, even if they also define other characteristics.
 
 613.2b Layer 1b: Face-down spells and permanents have their characteristics modified as defined in rule 708.2.
 
