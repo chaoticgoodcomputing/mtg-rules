@@ -54,7 +54,7 @@
 
 701.9b By default, effects that cause a player to discard a card allow the affected player to choose which card to discard. Some effects, however, require a random discard or allow another player to choose which card is discarded.
 
-701.9c If a card is discarded, but an effect causes it to be put into a hidden zone instead of into its owner’s graveyard without being revealed, all values of that card’s characteristics are considered to be undefined. If a card is discarded this way to pay a cost that specifies a characteristic about the discarded card, that cost payment is illegal; the game returns to the moment before the cost was paid (see rule 732, “Handling Illegal Actions”).
+701.9c If a card is discarded, but an effect causes it to be put into a hidden zone instead of into its owner’s graveyard without being revealed, all values of that card’s characteristics are considered to be undefined. If a card is discarded this way to pay a cost that specifies a characteristic about the discarded card, that cost payment is illegal; the game returns to the moment before the cost was paid (see rule 733, “Handling Illegal Actions”).
 
 701.10. Double
 
@@ -135,7 +135,7 @@ Example: If a spell attempts to exchange control of two target creatures but one
 
 701.17c An effect that refers to a milled card can find that card in the zone it moved to from the library, as long as that zone is a public zone.
 
-701.17d If an ability checks information about a single milled card but more than one card was milled, that ability refers to each of the milled cards. If that ability asks for any information about the milled card, such as a characteristic or mana value, it gets multiple answers. If these answers are used to determine the value of a variable, the sum of the answers is used. If that ability performs any actions on “the” card, it performs that action on each milled card. If that ability performs any actions on “a” card, the controller of the ability chooses which card is affected.
+701.17d Some spells and abilities mill a single card and then ask for information about the milled card. If more than one card is milled due to replacement effects and the effect of a spell or ability asks for information about the milled card, such as a characteristic or mana value, it gets information from each milled card and will get multiple answers. If these answers are used to determine the value of a variable, the sum of the answers is used. If that effect grants a player permission to cast or play “that” card, the permission applies to each of the milled cards. If that effect performs any actions on “the” card, it performs that action on each milled card. If that effect performs any actions on “a” card, the controller of the spell or ability chooses which card is affected.
 
 701.18. Play
 
@@ -259,7 +259,7 @@ Example: Darksteel Colossus and Gravebane Zombie are put into a player’s grave
 
 701.27f If an activated or triggered ability of a permanent that isn’t a delayed triggered ability of that permanent tries to transform it, the permanent does so only if it hasn’t transformed or converted since the ability was put onto the stack. If a delayed triggered ability of a permanent tries to transform that permanent, the permanent does so only if it hasn’t transformed or converted since that delayed triggered ability was created. In both cases, if the permanent has already transformed or converted, an instruction to do either is ignored.
 
-701.27g Some spells and abilities refer to a “transformed permanent.” This phrase refers to a double-faced permanent on the battlefield with its back face up. A permanent with its front face up is never considered a transformed permanent, even if it had its back face up previously. Similarly, an object represented by more than one card, such as a melded or merged permanent, is never considered a transformed permanent, even if it has components that are back face up. See rules 701.42, “Meld,” and 729, “Merging with Permanents.”
+701.27g Some spells and abilities refer to a “transformed permanent.” This phrase refers to a double-faced permanent on the battlefield with its back face up. A permanent with its front face up is never considered a transformed permanent, even if it had its back face up previously. Similarly, an object represented by more than one card, such as a melded or merged permanent, is never considered a transformed permanent, even if it has components that are back face up. See rules 701.42, “Meld,” and 730, “Merging with Permanents.”
 
 701.28. Convert
 

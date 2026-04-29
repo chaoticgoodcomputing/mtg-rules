@@ -30,7 +30,7 @@
 
 118.7d If a cost is reduced by an amount of colorless mana that exceeds its colorless mana component, the cost’s colorless mana component is reduced to nothing and the cost’s generic mana component is reduced by the difference.
 
-118.7e If a cost is reduced by an amount of mana represented by a hybrid mana symbol, the player paying that cost chooses one half of that symbol at the time the cost reduction is applied (see rule 601.2f). If a colored half is chosen, the cost is reduced by one mana of that color. If a generic half is chosen, the cost is reduced by an amount of generic mana equal to that half’s number.
+118.7e If a cost is reduced by an amount of mana represented by a hybrid mana symbol, the player paying that cost chooses one half of that symbol at the time the cost reduction is applied (see rule 601.2f). If a colored or colorless half is chosen, the cost is reduced by one mana of that type. If a generic half is chosen, the cost is reduced by an amount of generic mana equal to that half’s number.
 
 118.7f If a cost is reduced by an amount of mana represented by a Phyrexian mana symbol, the cost is reduced by one mana of that symbol’s color.
 

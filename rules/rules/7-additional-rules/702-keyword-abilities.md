@@ -1151,7 +1151,7 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 
 702.140b As a mutating creature spell begins resolving, if its target is illegal, it ceases to be a mutating creature spell and continues resolving as a creature spell and will be put onto the battlefield under the control of the spell’s controller.
 
-702.140c As a mutating creature spell resolves, if its target is legal, it doesn’t enter the battlefield. Rather, it merges with the target creature and becomes one object represented by more than one card or token (see rule 729, “Merging with Permanents”). The spell’s controller chooses whether the spell is put on top of the creature or on the bottom. The resulting permanent is a mutated permanent.
+702.140c As a mutating creature spell resolves, if its target is legal, it doesn’t enter the battlefield. Rather, it merges with the target creature and becomes one object represented by more than one card or token (see rule 730, “Merging with Permanents”). The spell’s controller chooses whether the spell is put on top of the creature or on the bottom. The resulting permanent is a mutated permanent.
 
 702.140d An ability that triggers whenever a creature mutates triggers when a spell merges with a creature as a result of a resolving mutating creature spell.
 
@@ -1191,7 +1191,7 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 
 702.145a Daybound and nightbound are found on opposite faces of some double-faced cards (see rule 712, “Double-Faced Cards”).
 
-702.145b Daybound is found on the front faces of some double-faced cards and represents three static abilities. “Daybound” means “If it is night and this permanent is represented by a double-faced card, it enters transformed,” “As it becomes night, if this permanent is front face up, transform it,” and “This permanent can’t transform except due to its daybound ability.” See rule 730, “Day and Night.”
+702.145b Daybound is found on the front faces of some double-faced cards and represents three static abilities. “Daybound” means “If it is night and this permanent is represented by a double-faced card, it enters transformed,” “As it becomes night, if this permanent is front face up, transform it,” and “This permanent can’t transform except due to its daybound ability.” See rule 731, “Day and Night.”
 
 702.145c Any time a player controls a permanent that is front face up with daybound and it’s night, that player transforms that permanent. This happens immediately and isn’t a state-based action.
 
@@ -1263,7 +1263,7 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 
 702.155a Read ahead is a keyword found on some Saga cards. “Read ahead” means “Chapter abilities of this Saga can’t trigger the turn it entered the battlefield unless it has exactly the number of lore counters on it specified in the chapter symbol of that ability.” See rule 714, “Saga Cards.”
 
-702.155b As a Saga with the read ahead ability enters the battlefield, its controller chooses a number from one to that Saga’s final chapter number. That Saga enters the battlefield with the chosen number of lore counters on it. See rule 714, “Saga Cards.”
+702.155b Each Saga with read ahead has the intrinsic abilities “As this Saga enters, choose a number between one and this Saga’s final chapter number” and “This Saga enters with the chosen number of lore counters on it.” See rule 714.3b.
 
 702.155c Multiple instances of read ahead on the same object are redundant.
 
@@ -1528,6 +1528,16 @@ Example: Tapestry Warden has as ability that reads “Each creature you control 
 
 702.190. Sneak
 
-702.190a Sneak is a keyword that represents a static ability that functions while the spell with sneak is on the stack. “Sneak [cost]” means “Any time you could cast an instant during your declare blockers step, you may choose to pay [cost] and return an unblocked creature you control to its owner’s hand rather than pay this spell’s mana cost.”
+702.190a Sneak is a keyword that represents a static ability that functions while the spell with sneak is on the stack. “Sneak [cost]” means “Any time you could cast an instant during your declare blockers step, you may cast this spell by paying [cost] and returning an unblocked creature you control to its owner’s hand rather than paying this spell’s mana cost.”
 
-702.190b A permanent spell cast using sneak enters the battlefield tapped and attacking (see rule 506.3a). It will be attacking the same player, planeswalker, or battle as the creature that was returned to its owner’s hand to pay the sneak cost of the spell that became that permanent.
+702.190b A permanent spell whose sneak cost was paid enters the battlefield tapped and attacking (see rule 506.3a). It will be attacking the same player, planeswalker, or battle as the creature that was returned to its owner’s hand to pay the sneak cost of the spell that became that permanent.
+
+702.191. Increment
+
+702.191a Increment is a triggered ability. “Increment” means “Whenever you cast a spell, if this permanent is a creature and the amount of mana spent to cast that spell is greater than this creature’s power or this creature’s toughness, put a +1/+1 counter on this creature.”
+
+702.191b If a creature has multiple instances of increment, each one triggers separately.
+
+702.192. Paradigm
+
+702.192a Paradigm represents two spell abilities, one of which creates a delayed triggered ability. Paradigm means “If this is the first time a spell you control with this spell’s name has resolved this game, at the beginning of each of your precombat main phases for the rest of the game, create a copy of this object in exile. You may cast the copy without paying its mana cost” and “Exile this spell.” See rule 707.10.
