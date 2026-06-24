@@ -4,7 +4,7 @@
 
 708.2a If a face-up permanent is turned face down by a spell or ability that doesn’t list any characteristics for that object, it becomes a 2/2 face-down creature with no text, no name, no subtypes, and no mana cost. A permanent that enters the battlefield face down also has these characteristics unless otherwise specified by the effect that put it onto the battlefield face down or allowed it to be cast face down. These values are the copiable values of that object’s characteristics.
 
-708.2b A face-down permanent can’t be turned face-down. If a spell or ability attempts to turn a face-down permanent face down, nothing happens and that effect doesn’t change any of its characteristics or their copiable values.
+708.2b A face-down permanent can’t be turned face down. If a spell or ability attempts to turn a face-down permanent face down, nothing happens and that effect doesn’t change any of its characteristics or their copiable values.
 
 708.3. Objects that are put onto the battlefield face down are turned face down before they enter the battlefield, so the permanent’s enters-the-battlefield abilities won’t trigger (if triggered) or have any effect (if static).
 
