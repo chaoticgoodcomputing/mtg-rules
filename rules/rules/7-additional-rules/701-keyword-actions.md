@@ -398,7 +398,7 @@ Example: A player owns and controls Midnight Scavengers and a token that’s a c
 
 701.44b A permanent “explores” after the process described in rule 701.44a is complete, even if some or all of those actions were impossible.
 
-701.44c If a permanent changes zones before an effect causes it to explore, its last known information is used to determine which object explored and who controlled it.
+701.44c If a permanent is no longer on the battlefield as an effect instructs it to explore, its last known information is used to determine which object explored and who controlled it.
 
 701.44d If multiple permanents are instructed to explore at the same time, the first player in APNAP order who controls (or, in the case of a permanent no longer on the battlefield, last controlled; see rule 701.44c) one or more of those permanents chooses one of them and it explores. Then this process is repeated for each remaining instruction to explore.
 
@@ -438,13 +438,15 @@ Example: A player owns and controls Midnight Scavengers and a token that’s a c
 
 701.50a Certain spells and abilities instruct a permanent to connive. To do so, that permanent’s controller draws a card, then discards a card. If a nonland card is discarded this way, that player puts a +1/+1 counter on the conniving permanent.
 
-701.50b A permanent “connives” after the process described in rule 701.50a is complete, even if some or all of those actions were impossible.
+701.50b If a permanent is no longer on the battlefield as an effect instructs it to connive, its last known information is used to determine which object connived and who controlled it.
 
-701.50c If a permanent changes zones before an effect causes it to connive, its last known information is used to determine which object connived and who controlled it.
+701.50c If multiple permanents are instructed to connive at the same time, the first player in APNAP order who controls (or, in the case of a permanent no longer on the battlefield, last controlled; see rule 701.50b) one or more of those permanents chooses one of them and it connives. Then this process is repeated for each remaining instruction to connive.
 
-701.50d If multiple permanents are instructed to connive at the same time, the first player in APNAP order who controls (or, in the case of a permanent no longer on the battlefield, last controlled; see rule 701.50c) one or more of those permanents chooses one of them and it connives. Then this process is repeated for each remaining instruction to connive.
+701.50d Connive N is a variant of connive. To have a permanent connive N, the permanent’s controller draws N cards, discards N cards, then puts a number of +1/+1 counters on the permanent equal to the number of nonland cards discarded this way.
 
-701.50e Connive N is a variant of connive. The permanent’s controller draws N cards, discards N cards, then puts a number of +1/+1 counters on the permanent equal to the number of nonland cards discarded this way.
+701.50e If a permanent would connive 0, no connive event occurs. Abilities that trigger whenever a permanent connives won’t trigger.
+
+701.50f A permanent “connives” after the process described in either rule 701.50a or 701.50d is complete, even if some or all of those actions were impossible.
 
 701.51. Open an Attraction
 
@@ -587,3 +589,7 @@ Example: Spirit Water Revival is a spell that costs {1}{U}{U} and says, in part,
 701.68c Some spells and abilities that instruct a player to blight refer to the “blighted creature.” This phrase refers to the object that the player who was instructed to blight chose to put -1/-1 counters on when blighting.
 
 701.68d An ability that triggers whenever a player blights triggers after the process described in rule 701.68a is complete, regardless of what events actually occurred.
+
+701.69. Heal
+
+701.69a To heal damage already dealt to a permanent, remove that marked damage from that permanent. If an effect states that damage already dealt to a permanent “is healed,” that permanent’s controller removes all marked damage from that permanent.
