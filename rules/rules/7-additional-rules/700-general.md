@@ -70,3 +70,5 @@ Example: An ability reads “Target creature gets +2/+2 until end of turn. Destr
 Example: A player casts Bark-Knuckle Boxer, which costs {1}{G} and reads “Whenever you expend 4, this creature gains indestructible until end of turn.” After it resolves, that player casts Divination, a spell that costs {2}{U}. Prior to paying the cost to cast Divination, that player has spent two mana to cast spells this turn. After paying the cost, they have spent five mana to cast spells this turn. Since they have now spent at least four mana to cast spells this turn, Bark-Knuckle Boxer’s ability triggers.
 
 700.15. The term enter[s] is short for “enter[s] the battlefield.”
+
+700.16. Some cards refer to worthy creatures. A creature is worthy if it’s legendary, isn’t a Villain, and is red and/or white.

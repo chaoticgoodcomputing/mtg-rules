@@ -45,14 +45,16 @@ Example: Melek, Izzet Paragon says, in part, “You may cast instant and sorcery
 601.4. While announcing the choices of any modes, alternative costs, and/or additional costs as described in rule 601.2b, some options may be available to a player only if other choices are made that would normally be made later in that rule’s instructions. In that case, the spell’s controller may consider any other choices to be made in that step. If any such choices could allow them to choose a particular mode, alternative cost, or additional cost, they may do so.
 Example: Inscription of Abundance is a modal spell with kicker and the text “Choose one. If this spell was kicked, choose any number instead.” When announcing the chosen modes for the spell, its controller may choose any number of modes, even though choosing to pay the kicker cost is normally done later in the announcement process.
 
-601.5. If a player is no longer allowed to cast a spell after completing its proposal (see rules 601.2a–d), the casting of the spell is illegal and the game returns to the moment before the casting of that spell was proposed (see rule 733, “Handling Illegal Actions”). It doesn’t matter if a rule or effect would make the casting of the spell illegal while determining and paying that spell’s costs (see rules 601.2f–h) or any time after the spell has been cast.
+601.5. While announcing the choices of any targets and/or the division or distribution of any effects as described in rules 601.2c–d, some options may be available to a player only if other choices are made later in spellcasting process. In that case, the spell’s controller may consider any other choices to be made during that process, including the choice of any objects that may be used to pay costs for that spell.
 
-601.5a Once a player has begun casting a spell that had flash because certain conditions were met or that could be cast as though it had flash because certain conditions were met (see 601.3d), they may continue to cast that spell as though it had flash even if those conditions stop being met.
+601.6. If a player is no longer allowed to cast a spell after completing its proposal (see rules 601.2a–d), the casting of the spell is illegal and the game returns to the moment before the casting of that spell was proposed (see rule 733, “Handling Illegal Actions”). It doesn’t matter if a rule or effect would make the casting of the spell illegal while determining and paying that spell’s costs (see rules 601.2f–h) or any time after the spell has been cast.
 
-601.6. Some spells specify that one of their controller’s opponents does something the controller would normally do while it’s being cast, such as choose a mode or choose targets. In these cases, the opponent does so when the spell’s controller normally would do so.
+601.6a Once a player has begun casting a spell that had flash because certain conditions were met or that could be cast as though it had flash because certain conditions were met (see 601.3d), they may continue to cast that spell as though it had flash even if those conditions stop being met.
 
-601.6a If there is more than one opponent who could make such a choice, the spell’s controller decides which of those opponents will make the choice.
+601.7. Some spells specify that one of their controller’s opponents does something the controller would normally do while it’s being cast, such as choose a mode or choose targets. In these cases, the opponent does so when the spell’s controller normally would do so.
 
-601.6b If the spell instructs its controller and another player to do something at the same time as the spell is being cast, the spell’s controller goes first, then the other player. This is an exception to rule 101.4.
+601.7a If there is more than one opponent who could make such a choice, the spell’s controller decides which of those opponents will make the choice.
 
-601.7. Casting a spell that alters costs won’t affect spells and abilities that are already on the stack.
+601.7b If the spell instructs its controller and another player to do something at the same time as the spell is being cast, the spell’s controller goes first, then the other player. This is an exception to rule 101.4.
+
+601.8. Casting a spell that alters costs won’t affect spells and abilities that are already on the stack.

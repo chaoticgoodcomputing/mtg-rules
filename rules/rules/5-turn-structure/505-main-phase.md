@@ -2,7 +2,7 @@
 
 505.1a Only the first main phase of the turn is a precombat main phase. All other main phases are postcombat main phases. This includes the second main phase of a turn in which the combat phase has been skipped. It is also true of a turn in which an effect has caused an additional combat phase and an additional main phase to be created.
 
-505.1b In card text, phrases such as “first main phase,” “second main phase,” and so on count the number of main phases that have occurred only in the current turn unless that text specifies otherwise.
+505.1b Phrases such as “first main phase,” “second main phase,” and so on count the number of main phases that have occurred only in the current turn unless that text specifies otherwise.
 
 505.2. The main phase has no steps, so a main phase ends when all players pass in succession while the stack is empty. (See rule 500.2.)
 
