@@ -95,7 +95,7 @@ Example: A player controls both Mycosynth Lattice and March of the Machines, the
 
 712.15a While face down, a double-faced permanent can’t transform or convert. If it’s turned face up, it will have its front face up.
 
-712.16. Melded permanents and other double-faced permanents can’t be turned face down. If a spell or ability tries to turn a double-faced permanent face down, nothing happens.
+712.16. Melded permanents and other double-faced permanents can’t be turned face down. If a spell or ability tries to turn a double-faced permanent face down, nothing happens and that effect doesn’t change any of its characteristics or their copiable values.
 
 712.17. A double-faced card that is exiled face down remains hidden, using a face-down substitute card and/or opaque sleeves. See rule 713, “Substitute Cards.”
 
