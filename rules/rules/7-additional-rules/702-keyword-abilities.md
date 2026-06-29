@@ -22,7 +22,7 @@ Example: Concerted Effort is an enchantment that reads “At the beginning of ea
 
 702.2d The deathtouch rules function no matter what zone an object with deathtouch deals damage from.
 
-702.2e If an object changes zones before an effect causes it to deal damage, its last known information is used to determine whether it had deathtouch.
+702.2e If an object is no longer in the zone it’s expected to be in as an effect causes it to deal damage, its last known information is used to determine whether it had deathtouch.
 
 702.2f Multiple instances of deathtouch on the same object are redundant.
 
@@ -155,7 +155,7 @@ Example: If a player controls a snow Forest, that player can’t block an attack
 
 702.15b Damage dealt by a source with lifelink causes that source’s controller, or its owner if it has no controller, to gain that much life (in addition to any other results that damage causes). See rule 120.3.
 
-702.15c If an object changes zones before an effect causes it to deal damage, its last known information is used to determine whether it had lifelink.
+702.15c If an object is no longer in the zone it’s expected to be in as an effect causes it to deal damage, its last known information is used to determine whether it had lifelink.
 
 702.15d The lifelink rules function no matter what zone an object with lifelink deals damage from.
 
@@ -545,7 +545,7 @@ Example: Heartless Summoning says, in part, “Creature spells you cast cost {2}
 
 702.54a Bloodthirst is a static ability. “Bloodthirst N” means “If an opponent was dealt damage this turn, this permanent enters with N +1/+1 counters on it.”
 
-702.54b “Bloodthirst X” is a special form of bloodthirst. “Bloodthirst X” means “This permanent enters with X +1/+1 counters on it, where X is the total damage your opponents have been dealt this turn.”
+702.54b “Bloodthirst X” is a variant of the bloodthirst ability. “Bloodthirst X” means “This permanent enters with X +1/+1 counters on it, where X is the total damage your opponents have been dealt this turn.”
 
 702.54c If an object has multiple instances of bloodthirst, each applies separately.
 
@@ -565,7 +565,7 @@ Example: Heartless Summoning says, in part, “Creature spells you cast cost {2}
 
 702.57. Forecast
 
-702.57a A forecast ability is a special kind of activated ability that can be activated only from a player’s hand. It’s written “Forecast — [Activated ability].”
+702.57a A forecast ability is an activated ability that can be activated only from a player’s hand. It’s written “Forecast — [Activated ability].”
 
 702.57b A forecast ability may be activated only during the upkeep step of the card’s owner and only once each turn. The controller of the forecast ability reveals the card with that ability from their hand as the ability is activated. That player plays with that card revealed in their hand until it leaves the player’s hand or until a step or phase that isn’t an upkeep step begins, whichever comes first.
 
@@ -711,7 +711,7 @@ Example: You activate the aura swap ability of an Aura that you control but you 
 
 702.80a Wither is a static ability. Damage dealt to a creature by a source with wither isn’t marked on that creature. Rather, it causes that source’s controller to put that many -1/-1 counters on that creature. See rule 120.3.
 
-702.80b If an object changes zones before an effect causes it to deal damage, its last known information is used to determine whether it had wither.
+702.80b If an object is no longer in the zone it’s expected to be in as an effect causes it to deal damage, its last known information is used to determine whether it had wither.
 
 702.80c The wither rules function no matter what zone an object with wither deals damage from.
 
@@ -783,7 +783,7 @@ Example: You activate the aura swap ability of an Aura that you control but you 
 
 702.90c Damage dealt to a creature by a source with infect isn’t marked on that creature. Rather, it causes that source’s controller to put that many -1/-1 counters on that creature. See rule 120.3.
 
-702.90d If an object changes zones before an effect causes it to deal damage, its last known information is used to determine whether it had infect.
+702.90d If an object is no longer in the zone it’s expected to be in as an effect causes it to deal damage, its last known information is used to determine whether it had infect.
 
 702.90e The infect rules function no matter what zone an object with infect deals damage from.
 
@@ -1009,9 +1009,11 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 
 702.122b A creature “crews a Vehicle” when it’s tapped to pay the cost to activate a Vehicle’s crew ability.
 
-702.122c If an effect states that a creature “can’t crew Vehicles,” that creature can’t be tapped to pay the crew cost of a Vehicle.
+702.122c A Vehicle is “crewed by” a creature if that creature was tapped to pay the cost to activate that Vehicle’s crew ability.
 
-702.122d Some Vehicles have abilities that trigger when they become crewed. “Whenever [this Vehicle] becomes crewed” means “Whenever a crew ability of [this Vehicle] resolves.” If that ability has an intervening “if” clause that refers to information about the creatures that crewed it, it means only creatures that were tapped to pay the cost of the crew ability that caused it to trigger.
+702.122d If an effect states that a creature “can’t crew Vehicles,” that creature can’t be tapped to pay the crew cost of a Vehicle.
+
+702.122e Some Vehicles have abilities that trigger when they become crewed. “Whenever [this Vehicle] becomes crewed” means “Whenever a crew ability of [this Vehicle] resolves.” If that ability has an intervening “if” clause that refers to information about the creatures that crewed it, it means only creatures that were tapped to pay the cost of the crew ability that caused it to trigger.
 
 702.123. Fabricate
 
@@ -1165,7 +1167,7 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 
 702.142. Boast
 
-702.142a A boast ability is a special kind of activated ability. “Boast — [Cost]: [Effect]” means “[Cost]: [Effect]. Activate only if this creature attacked this turn and only once each turn.”
+702.142a Boast is a keyword that adds additional rules to the activated ability that follows it. “Boast — [Cost]: [Effect]” means “[Cost]: [Effect]. Activate only if this creature attacked this turn and only once each turn.”
 
 702.142b Effects may refer to boast abilities. If an effect refers to a creature boasting, it means its boast ability being activated.
 
@@ -1442,14 +1444,14 @@ Example: If a creature with toxic 2 gains toxic 1 due to another effect, its tot
  
 702.177. Exhaust
 
-702.177a An exhaust ability is a special kind of activated ability. “Exhaust — [Cost]: [Effect]” means “[Cost]: [Effect]. Activate only once.”
+702.177a Exhaust is a keyword that adds additional rules to the activated ability that follows it. “Exhaust — [Cost]: [Effect]” means “[Cost]: [Effect]. Activate only once.”
 
 702.177b An effect may allow you to take an action as long as you haven’t activated an exhaust ability this turn. Such an effect allows that action only if you haven’t begun to activate an exhaust ability this turn.
 Example: Elvish Refueler has an exhaust ability that costs mana and also has an ability that reads “During your turn, as long as you haven’t activated an exhaust ability this turn, you may activate exhaust abilities as though they haven’t been activated.” Loot, the Pathfinder has an exhaust ability that is also a mana ability. If you’ve already activated both of these abilities in a previous turn, you can’t activate Loot’s mana ability during the process of activating Elvish Refueler’s exhaust ability, because you have already begun to activate a different exhaust ability.
 
 702.178. Max Speed
 
-702.178a A max speed ability is a special kind of static ability. “Max speed — [Ability]” means “As long as your speed is 4, this object has ‘[Ability].’” See rule 702.179, “Start Your Engines!”
+702.178a A max speed ability is a static ability. “Max speed — [Ability]” means “As long as your speed is 4, this object has ‘[Ability].’” See rule 702.179, “Start Your Engines!”
 
 702.178b If an ability granted by a max speed ability states which zones it functions from, the max speed ability that grants that ability functions from those zones. (See rule 113.6c.)
 
@@ -1541,3 +1543,17 @@ Example: Tapestry Warden has as ability that reads “Each creature you control 
 702.192. Paradigm
 
 702.192a Paradigm represents two spell abilities, one of which creates a delayed triggered ability. Paradigm means “If this is the first time a spell you control with this spell’s name has resolved this game, at the beginning of each of your precombat main phases for the rest of the game, create a copy of this object in exile. You may cast the copy without paying its mana cost” and “Exile this spell.” See rule 707.10.
+
+702.193. Power-up
+
+702.193a Power-up is a keyword that adds additional rules to the activated ability that follows it. “Power-up — [Cost]: [Effect]” means “[Cost]: [Effect]. If this permanent entered this turn, this ability’s cost is reduced by this permanent’s mana cost. Activate this ability only once.”
+
+702.193b Generic mana in the permanent’s mana cost reduces generic mana in the cost to activate its power-up ability. Colored and colorless mana in the permanent’s mana cost reduces mana of the same type, and any excess reduces that much generic mana. (See rule 118.7.)
+
+702.194. Teamwork
+
+702.194a Teamwork represents a static ability that functions while the spell with teamwork is on the stack. “Teamwork N” means “As an additional cost to cast this spell, you may tap any number of creatures you control with total power N or more.” Paying a spell’s teamwork cost follows the rules for paying additional costs in rules 601.2b and 601.2f–h.
+
+702.194b Abilities may refer to a spell cast “using teamwork” or similar. Such phrases refer to whether the player who cast the spell declared the intention to pay the spell’s teamwork cost as they cast that spell.
+
+702.194c If part of a spell’s ability has its effect only if teamwork was used to cast it, and that part of the ability includes any targets, the spell’s controller chooses those targets only if teamwork was used to cast that spell. Otherwise, the spell is cast as if it did not have those targets. See rule 601.2c.
