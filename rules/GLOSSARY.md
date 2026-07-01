@@ -240,7 +240,7 @@ Bloodthirst
 A keyword ability that can have a creature enter the battlefield with +1/+1 counters on it. See rule 702.54, “Bloodthirst.”
 
 Boast
-A special kind of activated ability that can be activated only once each turn if the creature with the boast ability attacked that turn. See rule 702.142, “Boast.”
+An activated ability that can be activated only once each turn if the creature with the boast ability attacked that turn. See rule 702.142, “Boast.”
 
 Bolster
 A keyword action that puts +1/+1 counters on the weakest creature a player controls. See rule 701.39, “Bolster.”
@@ -732,7 +732,7 @@ Exert
 A keyword action that stops a permanent from untapping during the next untap step of the player who exerted it. See rule 701.43, “Exert.”
 
 Exhaust
-A special kind of activated ability that may be activated only once. See rule 702.177, “Exhaust.”
+An activated ability that may be activated only once. See rule 702.177, “Exhaust.”
 
 Exile
 1. A zone. Exile is essentially a holding area for cards. It used to be known as the “removed-from-the-game” zone.
@@ -928,6 +928,9 @@ A keyword ability that lets a creature ignore the “summoning sickness” rule.
 
 Haunt
 A keyword ability that exiles cards. A card exiled this way “haunts” a creature targeted by the haunt ability. See rule 702.55, “Haunt.”
+
+Heal
+To remove damage marked on a permanent. See rule 701.69, “Heal.”
 
 Hexproof
 A keyword ability that precludes a permanent or player from being targeted by an opponent. See rule 702.11, “Hexproof.”
@@ -1535,6 +1538,9 @@ Power
 Powerstone Token
 A Powerstone token is a colorless artifact token with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.” For more information about predefined tokens, see rule 111.10.
 
+Power-up
+A one-time activated ability found on permanents that costs less during the turn the permanent with the ability entered the battlefield. See rule 702.193, “Power-up.”
+
 Precombat Main Phase
 The first main phase of a turn. See Main Phase.
 
@@ -1543,7 +1549,6 @@ Cards with a two-part card frame (one part of which is inset on the right) on a 
 
 Prepare Spell
 The inset frame of a preparation card that includes its alternative characteristics. See rule 722, “Preparation Cards.”
-
 
 Prepared
 A designation a permanent may have that allows you to cast a copy of that card with its alternative characteristics. See rule 722, “Preparation Cards.”
@@ -1976,6 +1981,9 @@ A multiplayer variant played among two or more teams, each of which sits togethe
 Teammate
 In a multiplayer game between teams, a player’s teammates are the other players on their team. See rule 102.3.
 
+Teamwork
+A keyword ability that represents an optional additional cost of tapping creatures. See rule 702.194, “Teamwork.”
+
 Text Box
 Part of a card. The text box is printed on the lower half of the card and contains the card’s rules text, reminder text, and flavor text. See rule 207, “Text Box.”
 
@@ -2174,6 +2182,9 @@ A keyword action that can bring dungeon cards into the game from outside the gam
 Venture Marker
 A marker used to track which room of a dungeon card a player is currently in. See rule 309, “Dungeons.”
 
+Vibranium Token
+A Vibranium token is a colorless Vibranium artifact token with indestructible and “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.” For more information about predefined tokens, see rule 111.10.
+
 Vigilance
 A keyword ability that lets a creature attack without tapping. See rule 702.20, “Vigilance.”
 
@@ -2215,6 +2226,9 @@ A supertype that’s normally relevant on enchantments. See rule 205.4, “Super
 
 World Rule
 A state-based action that causes all permanents with the world supertype except the one that has had the world supertype for the shortest amount of time are put into their owners’ graveyards. See rule 704.5k.
+
+Worthy
+A rules term used to describe a creature that’s legendary, not a Villain, and red and/or white. See rule 700.16. 
 
 X
 A placeholder for a number that needs to be determined. See rule 107.3.

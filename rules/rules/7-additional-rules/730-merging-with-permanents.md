@@ -20,7 +20,7 @@
 
 730.2i A merged permanent is not a double-faced permanent even if it contains one or more double-faced components. If a merged permanent contains one or more double-faced components that can transform (see rule 712), transforming or converting that permanent causes each of those double-faced components to turn so that its other face is up.
 
-730.2j A face-up merged permanent that contains a double-faced component can’t be turned face down.
+730.2j A face-up merged permanent that contains a double-faced component can’t be turned face down. If a spell or ability tries to turn a face-up merged permanent that contains a double-faced component face down, nothing happens and that effect doesn’t change any of its characteristics or their copiable values.
 
 730.3. If a merged permanent leaves the battlefield, one permanent leaves the battlefield and each of the individual components are put into the appropriate zone.
 
