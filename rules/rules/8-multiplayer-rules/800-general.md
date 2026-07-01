@@ -27,7 +27,7 @@ Example: Astral Slide is an enchantment that reads, “Whenever a player cycles 
 
 800.4h If a rule requires a player who has left the game to make a choice, the next player in turn order makes that choice.
 
-800.4i If an effect requires information about a specific player, the effect uses the current information about that player if they are still in the game; otherwise, the effect uses the last known information about that player before they left the game. If an effect requires information from the game about actions players have taken, the effect can find actions that were taken by a player who has left the game.
+800.4i If an effect requires information about a specific player, the effect uses the current information about that player if they are still in the game; otherwise, the effect uses the last known information about that player before they left the game. If an effect requires information from the game about actions players have taken, the effect can find actions that were taken by a player who has left the game. If an effect requires information from the game about actions players have taken during their “last turn,” it can find the actions that were taken by a player who has left the game only until that player’s next turn after leaving the game would have begun.
 
 800.4j If a player leaves the game during their turn, that turn continues to its completion without an active player. If the active player would receive priority, instead the next player in turn order receives priority, or the top object on the stack resolves, or the phase or step ends, whichever is appropriate.
 
