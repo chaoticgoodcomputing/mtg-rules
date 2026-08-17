@@ -1,5 +1,5 @@
 Contents
- 
+
 1. Game Concepts
 100. General
 101. The Magic Golden Rules
@@ -25,7 +25,7 @@ Contents
 121. Drawing a Card
 122. Counters
 123. Stickers
- 
+
 2. Parts of a Card
 200. General
 201. Name
@@ -41,7 +41,7 @@ Contents
 211. Hand Modifier
 212. Life Modifier
 213. Information Below the Text Box
- 
+
 3. Card Types
 300. General
 301. Artifacts
@@ -59,7 +59,7 @@ Contents
 313. Vanguards
 314. Schemes
 315. Conspiracies
- 
+
 4. Zones
 400. General
 401. Library
@@ -70,7 +70,7 @@ Contents
 406. Exile
 407. Ante
 408. Command
- 
+
 5. Turn Structure
 500. General
 501. Beginning Phase
@@ -87,7 +87,7 @@ Contents
 512. Ending Phase
 513. End Step
 514. Cleanup Step
- 
+
 6. Spells, Abilities, and Effects
 600. General
 601. Casting Spells
@@ -106,7 +106,7 @@ Contents
 614. Replacement Effects
 615. Prevention Effects
 616. Interaction of Replacement and/or Prevention Effects
- 
+
 7. Additional Rules
 700. General
 701. Keyword Actions
@@ -142,7 +142,7 @@ Contents
 731. Day and Night
 732. Taking Shortcuts
 733. Handling Illegal Actions
- 
+
 8. Multiplayer Rules
 800. General
 801. Limited Range of Influence Option
@@ -156,7 +156,7 @@ Contents
 809. Emperor Variant
 810. Two-Headed Giant Variant
 811. Alternating Teams Variant
- 
+
 9. Casual Variants
 900. General
 901. Planechase
@@ -164,7 +164,7 @@ Contents
 903. Commander
 904. Archenemy
 905. Conspiracy Draft
- 
+
 Glossary
- 
+
 Credits
